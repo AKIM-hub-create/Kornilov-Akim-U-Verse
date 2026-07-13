@@ -19,9 +19,7 @@ https://krasnodar.hh.ru/resume/12558366ff106298e30039ed1f694a4431637a
 ## Проект U-Verse  
 *Платформа онлайн-курсов для повышения квалификации взрослых: регистрация преподавателей, управление курсами, работа с отзывами, приём платежей.*  
 - 📄 **Требования**  
-  - [User Stories: Регистрация преподавателя в платформе](https://github.com/getanalyst/U-Verse/blob/main/docs/UserStories.md)
-  - [User Stories: Оплата курса](https://github.com/getanalyst/U-Verse/blob/main/docs/UserStories.md)
-  - [Use Case: Публикация отзыва на курс](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/BasicUseCases.md)  
+  - [Use Case: Добавление теста в урок]([https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/BasicUseCases.md](https://github.com/AKIM-hub-create/Kornilov-Akim-U-Verse/blob/main/%5BAK%5D%2BUse%2BCase%2B%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2B%D1%82%D0%B5%D1%81%D1%82%D0%B0%2B%D0%B2%2B%D1%83%D1%80%D0%BE%D0%BA..doc)  
   - [Use Case: Оплата курса через РайфПэй](https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/IntegrationUseCases.md)  
   - [Задача на Frontend: Экран создания курса](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)
   - [Задача на Frontend: Экран со списком курсов](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)  
