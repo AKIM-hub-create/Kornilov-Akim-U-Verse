@@ -41,9 +41,8 @@ https://krasnodar.hh.ru/resume/12558366ff106298e30039ed1f694a4431637a
   - [C4-модель архитектуры (draw.io)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/C4_Architecture.png)
 - 🎨 **Прототипы UI**  
   - [Figma](https://www.figma.com/file/XYZ/U-Verse-UI-Prototypes)
-- 🚀 **Мини-проекты**  
-  - [Landing Page (GitHub Pages)](https://ekaterinaananeyeva.github.io/U-Verse-Landing)  
-  - [React-демо](https://github.com/getanalyst/U-Verse-React-Demo)  
+
 **Ключевые навыки:**  
 BPMN · UML · Системный анализ · ERD · SQL · REST API · Agile · Postman · Интеграции · Jira · Confluence 
+
 [Telegram](@Akim722)
