@@ -35,7 +35,7 @@ https://krasnodar.hh.ru/resume/12558366ff106298e30039ed1f694a4431637a
   - [UML Sequence (PlantUML)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/Sequence_Diagrams.pdf)  
   - [C4-модель архитектуры (draw.io)](Архитектура+системы+U-Verse+С4..doc)
 - 🎨 **Прототипы UI**  
-  - [Figma]((https://www.figma.com/design/PnXgFIHVTKSd0L83m1HkkK/Untitled?node-id=0-1&t=u1wJcHnU8RTprxl9-1))
+  - [Figma](https://www.figma.com/design/PnXgFIHVTKSd0L83m1HkkK/Untitled?node-id=0-1&t=u1wJcHnU8RTprxl9-1)
 
 **Ключевые навыки:**  
 BPMN · UML · Системный анализ · ERD · SQL · REST API · Agile · Postman · Интеграции · Jira · Confluence 
