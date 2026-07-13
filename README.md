@@ -19,15 +19,13 @@ https://krasnodar.hh.ru/resume/12558366ff106298e30039ed1f694a4431637a
 ## Проект U-Verse  
 *Платформа онлайн-курсов для повышения квалификации взрослых: регистрация преподавателей, управление курсами, работа с отзывами, приём платежей.*  
 - 📄 **Требования**  
-  - [Use Case: Добавление теста в урок]([https://github.com/getanalyst/U-Verse/blob/main/docs/UseCases/BasicUseCases.md](https://github.com/AKIM-hub-create/Kornilov-Akim-U-Verse/blob/main/%5BAK%5D%2BUse%2BCase%2B%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%2B%D1%82%D0%B5%D1%81%D1%82%D0%B0%2B%D0%B2%2B%D1%83%D1%80%D0%BE%D0%BA..doc)  
-  - [Use Case: Редактирование данных профиля]([AK]+Use+Case+Редактирование+данных+профиля+студента..doc)  
-  - [Задача на Frontend: Экран создания курса](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)
-  - [Задача на Frontend: Экран со списком курсов](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/FrontendTasks.md)  
+  - [Use Case: Добавление теста в урок]([AK]+Use+Case+Добавление+теста+в+урок..doc)
+  - [Use Case: Редактирование данных профиля]([AK]+Use+Case+Редактирование+данных+профиля+студента..doc)
+  - [Use Case: Статистика прохождения курса]([AK]+Use+Case+Статистика+прохождения+курса..doc) 
+  - [Задача на Frontend: Экран создания теста]([AK]++Постановка+задач+на+Frontend.doc)
 - 🔗 **Интеграции и API**  
-  - [Postman Workspace](https://www.postman.com/getanalysts/workspace/U-Verse)  
-  - [Postman-документация проекта U-Verse](https://documenter.getpostman.com/view/123456/U-Verse)  
-  - [Swagger (OpenAPI) спецификация U-Verse](https://github.com/getanalyst/U-Verse/blob/main/api/openapi.yaml)
-  - [Задача на REST API: Создание платежа через РайфПэй / Confluence](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/ApiTasks.md)  
+  - [Задача на REST API: Добавление вопроса в домашнее задание(тест)]([AK]+Добавление+вопроса+в+домашнее+задание+(тест)+[POST+https___u-verse.ru_api__private_v1.0_homeworks_{homeworkId}_questions].doc)
+  - [Задача на REST API: Отправка домашнего задания учеником]([AK]+Отправка+домашнего+задания+учеником+[POST+https___u-verse.ru_api_public_v1.0_homeworks_{homeworkId}_submissions].doc)
 - 🗄 **База данных и SQL**  
   - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/getanalyst/U-Verse/blob/main/db/ERD_Physical.png)  
   - [Исходник СУБД SQLite проекта U-Verse](https://github.com/getanalyst/U-Verse/blob/main/db/UVerse.db)  
