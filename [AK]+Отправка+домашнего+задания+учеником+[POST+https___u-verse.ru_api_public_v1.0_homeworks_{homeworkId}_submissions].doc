@@ -1,0 +1,1280 @@
+Date: Wed, 8 Jul 2026 11:54:53 +0000 (UTC)
+Message-ID: <1967852760.33.1783511693145@e49b1fac37ff>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_32_1264930457.1783511693144"
+
+------=_Part_32_1264930457.1783511693144
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>[AK] =D0=9E=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B0 =D0=B4=D0=
+=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=
+=BD=D0=B8=D1=8F =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=BE=D0=BC [POST http=
+s://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/submissions]</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>[AK] =D0=9E=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B0 =D0=B4=D0=BE=
+=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=
+=D0=B8=D1=8F =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=BE=D0=BC [POST https:/=
+/u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/submissions]</h1>
+    <div class=3D"Section1">
+        <div class=3D"confluence-information-macro confluence-information-m=
+acro-information">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p local-id=3D"603e48be1f97"></p>
+</div>
+</div>
+<div class=3D"panel" style=3D"background-color: #EAE6FF;border-color: #998D=
+D9;border-width: 1px;">
+<div class=3D"panelContent" style=3D"background-color: #EAE6FF;">
+<p local-id=3D"c97a96a3a9bd"></p>
+</div>
+</div>
+<h2 local-id=3D"83a2afe3d062" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9E=D0=B1=D1=89=D0=B5=D0=B5=D0=BE=D0=BF=D0=B8=D1=81=D0=B0=
+=D0=BD=D0=B8=D0=B5">=D0=9E=D0=B1=D1=89=D0=B5=D0=B5 =D0=BE=D0=BF=D0=B8=D1=81=
+=D0=B0=D0=BD=D0=B8=D0=B5</h2>
+<p local-id=3D"bbf3237f39dd">=D0=9C=D0=B5=D1=82=D0=BE=D0=B4 =D0=BF=D1=80=D0=
+=B5=D0=B4=D0=BD=D0=B0=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD =D0=B4=D0=BB=D1=
+=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F =D0=B2 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=
+=B8 =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=B0 =D0=BE=D0=B1=D1=80=D0=B0=D0=
+=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D0=BF=D0=
+=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=BC=D1=8B U=E2=80=91verse:</p>
+<ul local-id=3D"f018a82e-07fa-4c07-ae83-f0de380ac88f">
+<li local-id=3D"c9b172e1-c76a-4825-a44d-bfb3d86707c8">
+<p local-id=3D"63cd4624b261">=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA =D0=BE=D1=
+=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D0=B5=D1=82 =D0=B2=D1=8B=D0=BF=D0=
+=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BD=D0=BE=D0=B5 =D0=B4=D0=BE=D0=BC=D0=B0=D1=
+=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BD=D0=
+=B0 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D1=83 =D0=BF=D1=80=D0=B5=D0=
+=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E,</p></li>
+<li local-id=3D"802ded53-ac4f-4523-b1af-db6e4a1594dd">
+<p local-id=3D"6f05b0f5d1ff">=D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=
+=B0 =D0=BF=D1=80=D0=BE=D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =D1=87=D0=
+=B5=D1=80=D0=B5=D0=B7 =D1=84=D0=BE=D1=80=D0=BC=D1=83 =D0=BE=D1=82=D0=BF=D1=
+=80=D0=B0=D0=B2=D0=BA=D0=B8 =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=
+=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F,</p></li>
+<li local-id=3D"09520c69-9b6c-4007-baf8-3c4160c85ee7">
+<p local-id=3D"ebda86842948">=D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=BE=D1=82=D0=
+=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 =D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=
+=86=D0=B5&nbsp;<code>student_homework</code>&nbsp;=D1=81=D0=BE=D0=B7=D0=B4=
+=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D1=81=
+=D0=BE =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=BE=D0=BC&nbsp;<code>pending<=
+/code>&nbsp;(=D0=BD=D0=B0 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B5)=
+,</p></li>
+<li local-id=3D"5009ead0-08e2-4a83-b713-952eac5d4384">
+<p local-id=3D"9cabf306e3cb">=D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D1=81=D0=
+=B2=D1=8F=D0=B7=D1=8B=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D1=81 =D0=B4=D0=
+=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B8=D0=BC =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=
+=B8=D0=B5=D0=BC =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=
+=82=D0=B5=D0=BB=D1=8F (<code>teacher_homework</code>) =D0=B8 =D0=BF=D1=80=
+=D0=BE=D1=84=D0=B8=D0=BB=D0=B5=D0=BC =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=B0 (<code>student</code>).</p></li>
+</ul>
+<p local-id=3D"2d7c32cc8e6f"><strong>=D0=92 =D1=8D=D1=82=D0=BE=D0=B9 =D0=B2=
+=D0=B5=D1=80=D1=81=D0=B8=D0=B8 API:</strong></p>
+<ul local-id=3D"30ccf493-208a-4506-a9d8-849dfcb28358">
+<li local-id=3D"2fc1719c-26ab-4ebb-b151-66be5177ee2d">
+<p local-id=3D"5184307d645c">=D0=BF=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B8=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=
+=B2=D0=BA=D0=B0 =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=B2=D0=BE=D0=B3=D0=
+=BE =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 =D0=B8/=D0=B8=D0=BB=D0=B8 =D0=BF=
+=D1=80=D0=B8=D0=BA=D1=80=D0=B5=D0=BF=D0=BB=D0=B5=D0=BD=D0=B8=D0=B5 =D1=84=
+=D0=B0=D0=B9=D0=BB=D0=B0,</p></li>
+<li local-id=3D"62949cbb-e8cb-43fe-a08d-50ced724dcef">
+<p local-id=3D"486953136862">=D0=B4=D0=BB=D1=8F =D0=BA=D0=B0=D0=B6=D0=B4=D0=
+=BE=D0=B3=D0=BE =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=
+=80=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=B5=D0=B4=D0=BB=D0=B0=D0=B9=D0=
+=BD (=D0=B5=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD) =E2=80=93 =D0=
+=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B0 =D0=BF=D0=BE=D1=81=D0=BB=D0=
+=B5 =D0=B4=D0=B5=D0=B4=D0=BB=D0=B0=D0=B9=D0=BD=D0=B0 =D0=B7=D0=B0=D0=BF=D1=
+=80=D0=B5=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F,</p></li>
+<li local-id=3D"acb1642e-bbb4-439d-bff4-435f7b6147a1">
+<p local-id=3D"3e08858edaf4">=D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D1=83=D1=81=D0=
+=BF=D0=B5=D1=88=D0=BD=D0=BE=D0=B9 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=
+=BA=D0=B8 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=B7=D0=
+=B0=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=
+=B5&nbsp;<code>student_homework</code>&nbsp;=D1=81&nbsp;<code>status_id</co=
+de>, =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=
+=8E=D1=89=D0=B8=D0=BC =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D1=83&nbsp;<code=
+>pending</code>.</p></li>
+</ul>
+<h2 local-id=3D"ed728b858170" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF=D1=8B=D0=B8=D0=BE=D0=B3=
+=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B8=D1=8F">=D0=94=D0=BE=D1=81=
+=D1=82=D1=83=D0=BF=D1=8B =D0=B8 =D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=
+=D0=B5=D0=BD=D0=B8=D1=8F</h2>
+<p local-id=3D"fc7cecd99e86">=D0=9C=D0=B5=D1=82=D0=BE=D0=B4 =D0=B4=D0=BE=D0=
+=BB=D0=B6=D0=B5=D0=BD =D0=B1=D1=8B=D1=82=D1=8C =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D0=B5=D0=BD =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=B4=D0=BB=D1=
+=8F:</p>
+<ul local-id=3D"2ea9609b-955a-4fa1-9f68-50f9c83839d3">
+<li local-id=3D"8c017cce-3de4-4655-a30c-f3c40cac463b">
+<p local-id=3D"c9b3b836b703">=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D1=81=D1=82=D1=83=D0=B4=D0=B5=D0=
+=BD=D1=82=D0=BE=D0=B2 (=D1=80=D0=BE=D0=BB=D1=8C&nbsp;<code>student</code>).=
+</p></li>
+</ul>
+<p local-id=3D"d245f1990fa4">=D0=9C=D0=B5=D1=82=D0=BE=D0=B4&nbsp;<strong>=
+=D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B5=D0=BD</strong>&nbsp;=
+=D0=B4=D0=BB=D1=8F =D0=BD=D0=B5=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=
+=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=B9, =D0=BF=D1=80=D0=B5=D0=BF=
+=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=B9 =D0=B8 =D0=B0=
+=D0=B4=D0=BC=D0=B8=D0=BD=D0=B8=D1=81=D1=82=D1=80=D0=B0=D1=82=D0=BE=D1=80=D0=
+=BE=D0=B2.</p>
+<h2 local-id=3D"2558e89caf99" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81">=D0=97=D0=B0=D0=BF=D1=80=
+=D0=BE=D1=81</h2>
+<p local-id=3D"2f5d03f02f50"><strong>Method type:</strong>&nbsp;POST</p>
+<p local-id=3D"cde72db1a6ac"><strong>BaseURL:</strong>&nbsp;<a class=3D"ext=
+ernal-link" href=3D"https://u-verse.ru/api" rel=3D"nofollow">https://u-vers=
+e.ru/api</a></p>
+<p local-id=3D"bc5d1744d2bc"><strong>API name:</strong>&nbsp;public</p>
+<p local-id=3D"fe4b277d0eae"><strong>API version:</strong>&nbsp;v1.0</p>
+<p local-id=3D"ad3347159f76"><strong>Method name:</strong>&nbsp;homeworks/{=
+homeworkId}/submissions</p>
+<h2 local-id=3D"aa5e767ad7f9" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-Authorization:">Authorization:</h2>
+<ul local-id=3D"d01e604a-4235-4fe4-b05a-b20eee47698b">
+<li local-id=3D"bb4c4e3e-5e30-498a-bfa0-980627b981f4">
+<p local-id=3D"d72271b618f7">=D0=A3=D1=87=D0=B5=D0=BD=D0=B8=D0=BA: Bearer T=
+oken (=D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE)</=
+p></li>
+</ul>
+<h2 local-id=3D"530459d65c45" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-Headers:">Headers:</h2>
+<ul local-id=3D"bd19916f-ebff-4abc-98af-3fef04791d99">
+<li local-id=3D"fa4c582c-bd71-4155-9d4c-931a1ec8fa59">
+<p local-id=3D"5578c42a08a0">Authorization: Bearer Token (=D0=BE=D0=B1=D1=
+=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9)</p></li>
+<li local-id=3D"b1aff602-9834-423f-8b80-45a85dad4ca4">
+<p local-id=3D"94ed22e0c312">Content-Type: application/json (=D0=BE=D0=B1=
+=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9)</p></li>
+</ul>
+<h2 local-id=3D"dba15bd1790c" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-Path-parameters:">Path-parameters:</h2>
+<p local-id=3D"88ba855c6396">=E2=80=A2&nbsp;<strong>homeworkId</strong><br>
+=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=
+=80 =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=
+=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F (<code>teacher_homework.id</code>), =D0=
+=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D0=BF=D1=80=D0=B8=D0=
+=BA=D1=80=D0=B5=D0=BF=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BE=D1=82=D0=
+=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B0.<br>
+=D0=A4=D0=BE=D1=80=D0=BC=D0=B0=D1=82: UUID.<br>
+=D0=9E=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9.<b=
+r>
+=D0=92 =D0=91=D0=94:&nbsp;<code>teacher_homework.id</code></p>
+<h2 local-id=3D"7680c28b4e24" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-Query-parameters:">Query-parameters:</h2>
+<p local-id=3D"b2783ad14ac4">=D0=9E=D1=82=D1=81=D1=83=D1=82=D1=81=D1=82=D0=
+=B2=D1=83=D1=8E=D1=82.</p>
+<h2 local-id=3D"5a33f6614f48" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=B7=D0=B0=D0=BF=D1=80=
+=D0=BE=D1=81=D0=B0:">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=B7=D0=B0=D0=
+=BF=D1=80=D0=BE=D1=81=D0=B0:</h2>
+<p local-id=3D"ae4e03ecff97"><strong>=D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81:<=
+/strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">POST ht=
+tps://u-verse.ru/api/public/v1.0/homeworks/514c2894-e782-4487-9557-43e85815=
+263e/submissions
+Authorization: Bearer eyJhbGciOiJIUzI1NiIs...
+Content-Type: application/json</pre>
+</div>
+</div>
+<p local-id=3D"517ec2c38873"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=B7=D0=B0=
+=D0=BF=D1=80=D0=BE=D1=81=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "text": "=D0=A0=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B7=D0=B0=D0=B4=D0=
+=B0=D1=87=D0=B8: ...",
+  "fileUrl": "https://storage.u-verse.ru/submissions/solution.pdf"
+}</pre>
+</div>
+</div>
+<div class=3D"panel" style=3D"background-color: #EAE6FF;border-color: #998D=
+D9;border-width: 1px;">
+<div class=3D"panelContent" style=3D"background-color: #EAE6FF;">
+<p local-id=3D"030e89b0907b">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=87=D0=B0=D0=
+=BD=D0=B8=D0=B5: =D0=BE=D0=B1=D0=B0 =D0=BF=D0=BE=D0=BB=D1=8F =D0=BD=D0=B5=
+=D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B, =D0=BD=
+=D0=BE =D1=85=D0=BE=D1=82=D1=8F =D0=B1=D1=8B =D0=BE=D0=B4=D0=BD=D0=BE =D0=
+=B4=D0=BE=D0=BB=D0=B6=D0=BD=D0=BE =D0=B1=D1=8B=D1=82=D1=8C =D0=B7=D0=B0=D0=
+=BF=D0=BE=D0=BB=D0=BD=D0=B5=D0=BD=D0=BE<em>.</em></p>
+<p local-id=3D"e893a0a3519d"></p>
+</div>
+</div>
+<h2 local-id=3D"3377b71e05d7" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=A3=D1=81=D0=BF=D0=B5=D1=85">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=
+=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=A3=D1=81=D0=BF=D0=B5=D1=
+=85</h2>
+<p local-id=3D"94c87d6d21e5"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;201 Created</p>
+<p local-id=3D"7c71f3db4a8a"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "id": "ff92293a-587c-4838-8291-caf2a0c0584c",
+  "homeworkId": "514c2894-e782-4487-9557-43e85815263e",
+  "studentId": "b51f6598-1698-4c7b-8a7e-e108d1c747f0",
+  "text": "=D0=A0=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B7=D0=B0=D0=B4=D0=
+=B0=D1=87=D0=B8: ...",
+  "fileUrl": "https://storage.u-verse.ru/submissions/solution.pdf",
+  "status": {
+    "id": "s1a2b3c4-1234-5678-9101-abcdef123456",
+    "name": "=D0=9D=D0=B0 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=BA=D0=B5"
+  },
+  "submittedAt": "2026-07-07T14:30:00Z"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"70499c3a3111" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0=D0=B0=D0=B2=D1=82=D0=BE=
+=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=
+=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=9E=D1=88=D0=B8=D0=B1=D0=
+=BA=D0=B0 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=
+=B8</h2>
+<p local-id=3D"66c4d3c05728">=D0=95=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=B3=D0=
+=BE=D0=BB=D0=BE=D0=B2=D0=BE=D0=BA&nbsp;<code>Authorization</code>&nbsp;=D0=
+=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=B8=D0=
+=BB=D0=B8 =D1=82=D0=BE=D0=BA=D0=B5=D0=BD =D0=BD=D0=B5=D0=B4=D0=B5=D0=B9=D1=
+=81=D1=82=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D0=B5=D0=BD.</p>
+<p local-id=3D"b9ed1855a44a"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;401</p>
+<p local-id=3D"c4a9f61da3d2"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=9D=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=B0 =
+=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"054e3dad8193" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=9D=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D1=82=D0=BE=D1=87=
+=D0=BD=D0=BE=D0=BF=D1=80=D0=B0=D0=B2">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =
+=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=9D=D0=B5=D0=B4=D0=BE=D1=81=D1=82=
+=D0=B0=D1=82=D0=BE=D1=87=D0=BD=D0=BE =D0=BF=D1=80=D0=B0=D0=B2</h2>
+<p local-id=3D"0854ae48ce56">=D0=95=D1=81=D0=BB=D0=B8 =D1=82=D0=BE=D0=BA=D0=
+=B5=D0=BD =D0=BF=D1=80=D0=B8=D0=BD=D0=B0=D0=B4=D0=BB=D0=B5=D0=B6=D0=B8=D1=
+=82 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=
+=8E =D1=81 =D1=80=D0=BE=D0=BB=D1=8C=D1=8E, =D0=BE=D1=82=D0=BB=D0=B8=D1=87=
+=D0=BD=D0=BE=D0=B9 =D0=BE=D1=82 =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=B0.=
+</p>
+<p local-id=3D"62eccf8f6783"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;403</p>
+<p local-id=3D"93e5cfa1b982"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF =D0=B7=D0=B0=D0=BF=D1=80=
+=D0=B5=D1=89=D1=91=D0=BD. =D0=A2=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=
+=D1=8F =D1=80=D0=BE=D0=BB=D1=8C =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=B0"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"6f57cf66fce3" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=9D=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D1=8B=D0=B9=D1=84=D0=BE=
+=D1=80=D0=BC=D0=B0=D1=82=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0">=D0=9F=
+=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=
+=9D=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D1=8B=D0=B9 =D1=84=D0=BE=D1=80=D0=BC=D0=
+=B0=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0</h2>
+<p local-id=3D"dd27c1e66504">=D0=95=D1=81=D0=BB=D0=B8 =D1=82=D0=B5=D0=BB=D0=
+=BE =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0 =D0=BD=D0=B5 =D1=81=D0=BE=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=BE=D0=
+=B6=D0=B8=D0=B4=D0=B0=D0=B5=D0=BC=D0=BE=D0=B9 =D1=81=D1=82=D1=80=D1=83=D0=
+=BA=D1=82=D1=83=D1=80=D0=B5 (=D0=BD=D0=B0=D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D1=
+=80, =D0=BE=D0=B1=D0=B0 =D0=BF=D0=BE=D0=BB=D1=8F&nbsp;<code>text</code>&nbs=
+p;=D0=B8&nbsp;<code>fileUrl</code>&nbsp;=D0=BE=D1=82=D1=81=D1=83=D1=82=D1=
+=81=D1=82=D0=B2=D1=83=D1=8E=D1=82).</p>
+<p local-id=3D"93c1570bcb11"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;400</p>
+<p local-id=3D"8b8d2d8cb343"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=9D=D0=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D1=
+=8B=D0=B9 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0",
+  "details": "=D0=9D=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=BE =
+=D1=83=D0=BA=D0=B0=D0=B7=D0=B0=D1=82=D1=8C =D1=85=D0=BE=D1=82=D1=8F =D0=B1=
+=D1=8B =D0=BE=D0=B4=D0=BD=D0=BE =D0=BF=D0=BE=D0=BB=D0=B5: text =D0=B8=D0=BB=
+=D0=B8 fileUrl"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"c9c17ff0b149" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=94=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5=D0=B7=D0=B0=
+=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5=D0=BD=D0=B5=D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=
+=BD=D0=BE">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=
+=82=D0=B0 - =D0=94=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=
+=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=
+=D0=BD=D0=BE</h2>
+<p local-id=3D"a497f6ae38d2">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B5=D1=80=D0=
+=B5=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9&nbsp;<code>homeworkId</code>&nbsp;=
+=D0=BD=D0=B5 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =
+=D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B5&nbsp;<code>teacher_homewo=
+rk</code>.</p>
+<p local-id=3D"ce1c1af8e06a"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;404</p>
+<p local-id=3D"97db8e7ed097"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=94=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=
+=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=
+=D0=BD=D0=BE"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"13acfb6a4127" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=94=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5=D0=B7=D0=B0=
+=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5=D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=
+=BF=D0=BD=D0=BE=D0=B4=D0=BB=D1=8F=D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=
+=D0=B8">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=
+=D0=B0 - =D0=94=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=D0=
+=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B5 =D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=
+=BF=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=
+=BA=D0=B8</h2>
+<p local-id=3D"6b8c4e45d427">=D0=95=D1=81=D0=BB=D0=B8 =D1=81=D1=80=D0=BE=D0=
+=BA =D1=81=D0=B4=D0=B0=D1=87=D0=B8 =D0=B8=D1=81=D1=82=D1=91=D0=BA (=D0=B4=
+=D0=B5=D0=B4=D0=BB=D0=B0=D0=B9=D0=BD) =D0=B8=D0=BB=D0=B8 =D0=B4=D0=BE=D0=BC=
+=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =
+=D0=BD=D0=B5 =D0=BE=D0=BF=D1=83=D0=B1=D0=BB=D0=B8=D0=BA=D0=BE=D0=B2=D0=B0=
+=D0=BD=D0=BE.</p>
+<p local-id=3D"64ef500800d3"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;409</p>
+<p local-id=3D"748bf59b3010"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=A1=D1=80=D0=BE=D0=BA =D1=81=D0=B4=D0=B0=D1=87=D0=B8 =D0=B4=
+=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=
+=D0=BD=D0=B8=D1=8F =D0=B8=D1=81=D1=82=D1=91=D0=BA"
+}</pre>
+</div>
+</div>
+<p local-id=3D"49fb609b694c">=D0=B8=D0=BB=D0=B8</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=94=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=
+=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=BD=D0=B5 =D0=B0=D0=BA=D1=82=D0=B8=D0=B2=
+=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=
+=D0=B8"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"bb1b49de5795" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=9F=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=BD=D0=B0=D1=8F=D0=BE=
+=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B0">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=
+=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=9F=D0=BE=D0=B2=D1=82=D0=
+=BE=D1=80=D0=BD=D0=B0=D1=8F =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=
+=B0</h2>
+<p local-id=3D"29f491ec12c5">=D0=95=D1=81=D0=BB=D0=B8 =D1=83=D1=87=D0=B5=D0=
+=BD=D0=B8=D0=BA =D1=83=D0=B6=D0=B5 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=
+=BB=D1=8F=D0=BB =D1=8D=D1=82=D0=BE =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=
+=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 (=D0=B8 =D0=BE=D0=BD=
+=D0=BE =D0=BD=D0=B5 =D0=B1=D1=8B=D0=BB=D0=BE =D0=BE=D1=82=D0=BA=D0=BB=D0=BE=
+=D0=BD=D0=B5=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D1=81=
+=D0=B4=D0=B0=D1=87=D0=B8).</p>
+<p local-id=3D"c47ce6ea40f9"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;409</p>
+<p local-id=3D"b4c246de947c"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=92=D1=8B =D1=83=D0=B6=D0=B5 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=
+=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"1e4e18aba0da" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0-=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=BD=D0=B5=D0=B4=D0=BE=
+=D1=81=D1=82=D1=83=D0=BF=D0=B5=D0=BD,=D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0=
+=D0=BD=D0=B0=D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=B5">=D0=9F=D1=80=D0=B8=
+=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=A1=D0=B5=D1=
+=80=D0=B2=D0=B8=D1=81 =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=
+=B5=D0=BD, =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=BD=D0=B0 =D1=81=D0=B5=
+=D1=80=D0=B2=D0=B5=D1=80=D0=B5</h2>
+<p local-id=3D"c82fac35c315"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;503</p>
+<p local-id=3D"9eb6caaff171"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=B2=D1=80=D0=B5=D0=BC=
+=D0=B5=D0=BD=D0=BD=D0=BE =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=
+=D0=B5=D0=BD"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"55e51db90d9f" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=A2=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F=
+=D0=BA=D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=A2=
+=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BA =D1=80=D0=B5=
+=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8</h2>
+<h3 local-id=3D"81e659290caa" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=90=D0=BB=D0=B3=D0=BE=D1=80=D0=B8=D1=82=D0=BC=D1=80=D0=B0=
+=D0=B1=D0=BE=D1=82=D1=8B:">=D0=90=D0=BB=D0=B3=D0=BE=D1=80=D0=B8=D1=82=D0=BC=
+ =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=8B:</h3>
+<ol start=3D"1" local-id=3D"f031054b-8629-43a3-8f78-d86ab70319dd">
+<li local-id=3D"19e7a4c5-3f42-4f12-8ed0-80608b785858">
+<p local-id=3D"d19163926ae9">=D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=
+=8C =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81 =D0=B8 =D0=BF=D1=80=D0=BE=D0=B2=D0=
+=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =D0=
+=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=B0&nbsp;<code>Authorizatio=
+n</code>.</p>
+<ul local-id=3D"f4078c24-3cee-44e2-ba85-6ec318fd3c10">
+<li local-id=3D"08de4e1f-6ba0-487d-ac19-c214d613ac32">
+<p local-id=3D"6cf735bae179">=D0=95=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=B3=D0=
+=BE=D0=BB=D0=BE=D0=B2=D0=BE=D0=BA =D0=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=
+=82=D0=B2=D1=83=D0=B5=D1=82 =E2=80=93 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=
+=D1=8C HTTP=E2=80=91401.</p></li>
+<li local-id=3D"b70d2404-66d0-4d3b-882c-96a0788145e3">
+<p local-id=3D"b7b797678887">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D1=80=D0=B8=D1=
+=81=D1=83=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =E2=80=93 =D0=BF=D1=80=
+=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=
+=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D1=82=D0=BE=D0=BA=D0=B5=D0=BD=D0=B0 =D0=B8 =
+=D0=B8=D0=B7=D0=B2=D0=BB=D0=B5=D1=87=D1=8C =D1=80=D0=BE=D0=BB=D1=8C =D0=B8 =
+=D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=
+=80 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=
+=8F.</p></li>
+<li local-id=3D"856efd82-b841-4002-8cc2-b3fc48fabff3">
+<p local-id=3D"004ab4a93087">=D0=95=D1=81=D0=BB=D0=B8 =D1=80=D0=BE=D0=BB=D1=
+=8C =D0=BD=D0=B5&nbsp;<code>student</code>&nbsp;=E2=80=93 =D0=B2=D0=B5=D1=
+=80=D0=BD=D1=83=D1=82=D1=8C HTTP=E2=80=91403.</p></li>
+</ul></li>
+<li local-id=3D"5eb89085-7bbe-4c57-9f18-14b27f70cbc5">
+<p local-id=3D"cc66621a1a6a">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BE=D0=B2=D0=B0=D0=
+=BD=D0=B8=D0=B5 =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D1=81 =D1=82=D0=B0=D0=BA=D0=B8=D0=
+=BC&nbsp;<code>homeworkId</code>&nbsp;=D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=
+=D1=86=D0=B5&nbsp;<code>teacher_homework</code>.</p>
+<ul local-id=3D"ce8a7031-8690-4e6d-a9a3-595f651ed5c2">
+<li local-id=3D"4d0e3a54-a465-43da-af68-3e30d344f204">
+<p local-id=3D"51f3493211ed">=D0=95=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=BF=D0=
+=B8=D1=81=D1=8C =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=B0 =E2=
+=80=93 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP=E2=80=91404 =D1=81 =
+=D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=BC:&nbsp;<code>"=D0=94=D0=BE=D0=BC=
+=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =
+=D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD=D0=BE"</code>.</p></li>
+</ul></li>
+<li local-id=3D"c187bdc9-13f7-4e05-9809-7803a96e7fd7">
+<p local-id=3D"d528cf43db1a">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C, =D1=87=D1=82=D0=BE =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=
+=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D0=BD=D0=BE =D0=B4=D0=BB=D1=8F =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=
+=B2=D0=BA=D0=B8:</p>
+<ul local-id=3D"541e1f1a-343e-4228-b785-a72d1bd23641">
+<li local-id=3D"4f1b832e-c76e-40c3-8f00-d3963fd27938">
+<p local-id=3D"432d7b6fcc17">=D0=9F=D0=BE=D0=BB=D0=B5&nbsp;<code>is_active<=
+/code>&nbsp;=3D&nbsp;<code>true</code>.</p></li>
+<li local-id=3D"0982945a-2d42-4f04-a7ed-2c72ccd7631a">
+<p local-id=3D"f5a12edd3484">=D0=95=D1=81=D0=BB=D0=B8 =D1=83=D0=BA=D0=B0=D0=
+=B7=D0=B0=D0=BD&nbsp;<code>deadline</code>&nbsp;=E2=80=93 =D0=BF=D1=80=D0=
+=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C, =D1=87=D1=82=D0=BE =D1=82=D0=B5=D0=
+=BA=D1=83=D1=89=D0=B5=D0=B5 =D0=B2=D1=80=D0=B5=D0=BC=D1=8F =D0=BD=D0=B5 =D0=
+=BF=D1=80=D0=B5=D0=B2=D1=8B=D1=88=D0=B0=D0=B5=D1=82&nbsp;<code>deadline</co=
+de>.</p></li>
+<li local-id=3D"5ca74880-2030-4bc7-a701-c51786c5444b">
+<p local-id=3D"d8f0b83d2689">=D0=95=D1=81=D0=BB=D0=B8 =D0=B4=D0=B5=D0=B4=D0=
+=BB=D0=B0=D0=B9=D0=BD =D0=B8=D1=81=D1=82=D1=91=D0=BA =E2=80=93 =D0=B2=D0=B5=
+=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP=E2=80=91409 =D1=81 =D1=82=D0=B5=D0=BA=
+=D1=81=D1=82=D0=BE=D0=BC:&nbsp;<code>"=D0=A1=D1=80=D0=BE=D0=BA =D1=81=D0=B4=
+=D0=B0=D1=87=D0=B8 =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =
+=D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=B8=D1=81=D1=82=D1=91=D0=BA"<=
+/code>.</p></li>
+</ul></li>
+<li local-id=3D"889cc150-d2e3-43ac-aed2-6643ece4a8e0">
+<p local-id=3D"6409ef50be72">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C, =D1=87=D1=82=D0=BE =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA =D0=B8=
+=D0=BC=D0=B5=D0=B5=D1=82 =D0=BF=D1=80=D0=B0=D0=B2=D0=BE =D0=BE=D1=82=D0=BF=
+=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D1=82=D1=8C =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=
+=D0=B8=D0=B5 (=D0=BE=D0=BD =D0=B4=D0=BE=D0=BB=D0=B6=D0=B5=D0=BD =D0=B1=D1=
+=8B=D1=82=D1=8C =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B0=D0=BD =D0=BD=D0=B0 =D1=
+=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=89=
+=D0=B8=D0=B9 =D0=BA=D1=83=D1=80=D1=81, =D0=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=
+=80=D0=BE=D0=BC=D1=83 =D0=BF=D1=80=D0=B8=D0=B2=D1=8F=D0=B7=D0=B0=D0=BD=D0=
+=BE =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=
+=B0=D0=BD=D0=B8=D0=B5).</p></li>
+<li local-id=3D"27a38d8a-cb27-4bb9-a0ce-d0da2b8654b9">
+<p local-id=3D"6b3e62b56b31">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C, =D1=87=D1=82=D0=BE =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA =D0=B5=
+=D1=89=D1=91 =D0=BD=D0=B5 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=
+=D0=BB =D1=8D=D1=82=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =D0=B8=
+=D0=BB=D0=B8 =D0=BF=D1=80=D0=B5=D0=B4=D1=8B=D0=B4=D1=83=D1=89=D0=B0=D1=8F =
+=D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B0 =D0=B1=D1=8B=D0=BB=D0=B0 =
+=D0=BE=D1=82=D0=BA=D0=BB=D0=BE=D0=BD=D0=B5=D0=BD=D0=B0 (=D1=81=D1=82=D0=B0=
+=D1=82=D1=83=D1=81&nbsp;<code>rejected</code>&nbsp;=D0=BF=D0=BE=D0=B7=D0=B2=
+=D0=BE=D0=BB=D1=8F=D0=B5=D1=82 =D0=BF=D0=B5=D1=80=D0=B5=D1=81=D0=B4=D0=B0=
+=D1=87=D1=83). =D0=94=D0=BB=D1=8F =D1=8D=D1=82=D0=BE=D0=B3=D0=BE =D0=B2=D1=
+=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=82=D1=8C =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81 =D0=BA =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B5&nbsp;<code>stud=
+ent_homework</code>&nbsp;=D1=81 JOIN =D0=BD=D0=B0&nbsp;<code>status</code>:=
+</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">SELECT =
+sh.status_id, s.name
+FROM student_homework sh
+JOIN status s ON sh.status_id =3D s.id
+WHERE sh.homework_id =3D {{homeworkId}} AND sh.student_id =3D {{studentId}}
+ORDER BY sh.submitted_at DESC LIMIT 1;</pre>
+</div>
+</div>
+<ul local-id=3D"cebac09f-49b9-4a98-aa09-3893dffc9d1f">
+<li local-id=3D"4b687593-6c57-4476-bcdd-fe0b72cb2029">
+<p local-id=3D"272134d859d8">=D0=95=D1=81=D0=BB=D0=B8 =D1=81=D1=82=D0=B0=D1=
+=82=D1=83=D1=81&nbsp;<code>pending</code>&nbsp;=D0=B8=D0=BB=D0=B8&nbsp;<cod=
+e>approved</code>&nbsp;=E2=80=93 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C=
+ HTTP=E2=80=91409 =D1=81 =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=BC:&nbsp;<=
+code>"=D0=92=D1=8B =D1=83=D0=B6=D0=B5 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=
+=D0=B8=D0=BB=D0=B8 =D1=8D=D1=82=D0=BE =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=
+=D0=B5=D0=B5 =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5"</code>.</p></li>
+<li local-id=3D"5c8a7cea-22c6-442d-b736-6fe3dd8a9bb8">
+<p local-id=3D"0c456e4e2a25">=D0=95=D1=81=D0=BB=D0=B8 =D1=81=D1=82=D0=B0=D1=
+=82=D1=83=D1=81&nbsp;<code>rejected</code>&nbsp;=D0=B8=D0=BB=D0=B8 =D0=B7=
+=D0=B0=D0=BF=D0=B8=D1=81=D0=B5=D0=B9 =D0=BD=D0=B5=D1=82 =E2=80=93 =D1=80=D0=
+=B0=D0=B7=D1=80=D0=B5=D1=88=D0=B8=D1=82=D1=8C =D0=BE=D1=82=D0=BF=D1=80=D0=
+=B0=D0=B2=D0=BA=D1=83.</p></li>
+</ul></li>
+<li local-id=3D"e4c7a8d8-f6bc-4a03-9d86-070cf8ab1b19">
+<p local-id=3D"7611d1744d61">=D0=A0=D0=B0=D1=81=D0=BF=D0=B0=D1=80=D1=81=D0=
+=B8=D1=82=D1=8C =D1=82=D0=B5=D0=BB=D0=BE =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=
+=81=D0=B0 (JSON). =D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =
+=D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =D1=85=D0=BE=D1=82=D1=8F =D0=B1=
+=D1=8B =D0=BE=D0=B4=D0=BD=D0=BE=D0=B3=D0=BE =D0=B8=D0=B7 =D0=BF=D0=BE=D0=BB=
+=D0=B5=D0=B9&nbsp;<code>text</code>&nbsp;=D0=B8=D0=BB=D0=B8&nbsp;<code>file=
+Url</code>&nbsp;=E2=80=93 =D0=B5=D1=81=D0=BB=D0=B8 =D0=BE=D0=B1=D0=B0 =D0=
+=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=82=D0=B2=D1=83=D1=8E=D1=82, =D0=B2=D0=
+=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP=E2=80=91400.</p></li>
+<li local-id=3D"19057eea-df98-4959-9f32-6c392f003389">
+<p local-id=3D"4bb051e2b37c">=D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=
+=8C&nbsp;<code>status_id</code>&nbsp;=D0=B4=D0=BB=D1=8F =D1=81=D1=82=D0=B0=
+=D1=82=D1=83=D1=81=D0=B0&nbsp;<code>pending</code>&nbsp;=D0=B8=D0=B7 =D1=82=
+=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D1=8B&nbsp;<code>status</code>&nbsp;(=D0=BF=
+=D0=BE =D0=B8=D0=BC=D0=B5=D0=BD=D0=B8 =D0=B8=D0=BB=D0=B8 =D0=BF=D0=BE =D1=
+=84=D0=B8=D0=BA=D1=81=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=BD=D0=BE=D0=BC=
+=D1=83 ID, =D0=B7=D0=B0=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=BD=D0=BE=D0=BC=D1=
+=83 =D0=B2 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B5).</p></li>
+<li local-id=3D"1090e7d1-ff57-4635-ab33-17cf760ab5b6">
+<p local-id=3D"7494a09dd664">=D0=92=D1=81=D1=82=D0=B0=D0=B2=D0=B8=D1=82=D1=
+=8C =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=
+=B8=D1=86=D1=83&nbsp;<code>student_homework</code>:</p>
+<ul local-id=3D"13f68f94-8d95-4fc8-bfc8-d09f9894c47f">
+<li local-id=3D"f5cda62f-ddcf-44fa-80a9-00bc0ae26178">
+<p local-id=3D"5f74fc04d726"><code>id</code>&nbsp;=E2=80=93 =D1=81=D0=B3=D0=
+=B5=D0=BD=D0=B5=D1=80=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C UUID.</p></=
+li>
+<li local-id=3D"5106c76f-56d5-4827-ab3d-77bed6b3d4c4">
+<p local-id=3D"d6a1ffeea87e"><code>homework_id</code>&nbsp;=3D&nbsp;<code>h=
+omeworkId</code>&nbsp;(=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=B0&nb=
+sp;<code>teacher_homework.id</code>).</p></li>
+<li local-id=3D"d16ee0cf-c5b8-41cb-b566-9f16bc5ba9b7">
+<p local-id=3D"c0585720d308"><code>student_id</code>&nbsp;=3D =D0=B8=D0=B4=
+=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D1=83=
+=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=B0 =D0=B8=D0=B7 =D1=82=D0=BE=D0=BA=D0=B5=
+=D0=BD=D0=B0 (=D1=81=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=B0&nbsp;<code>=
+student.id</code>).</p></li>
+<li local-id=3D"94966236-00e7-41fd-ad97-c2f4e7904926">
+<p local-id=3D"54cb36b259a1"><code>text</code>&nbsp;=3D =D0=B7=D0=BD=D0=B0=
+=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8F&nbsp;<code>text</co=
+de>&nbsp;(=D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C NULL).</p=
+></li>
+<li local-id=3D"094b8a69-d5eb-4546-b049-61ea464e0997">
+<p local-id=3D"be3b67f31cca"><code>file_url</code>&nbsp;=3D =D0=B7=D0=BD=D0=
+=B0=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=BF=D0=BE=D0=BB=D1=8F&nbsp;<code>fileU=
+rl</code>&nbsp;(=D0=BC=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C NUL=
+L).</p></li>
+<li local-id=3D"e8b9832b-ede9-42a1-829e-a40cc19222e5">
+<p local-id=3D"a52f1b235b6a"><code>status_id</code>&nbsp;=3D =D0=B8=D0=B4=
+=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D1=81=
+=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0&nbsp;<code>pending</code>.</p></li>
+<li local-id=3D"19f9fe56-fb4f-4483-9e52-33b175d940cc">
+<p local-id=3D"f0bc861e93d8"><code>submitted_at</code>&nbsp;=3D =D1=82=D0=
+=B5=D0=BA=D1=83=D1=89=D0=B0=D1=8F =D0=B4=D0=B0=D1=82=D0=B0/=D0=B2=D1=80=D0=
+=B5=D0=BC=D1=8F UTC.</p></li>
+</ul></li>
+<li local-id=3D"1362ed91-ad0a-43a7-a9c0-3daf83cf8734">
+<p local-id=3D"a210e70497bf">=D0=92=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D1=
+=83=D1=81=D0=BF=D0=B5=D1=88=D0=BD=D1=8B=D0=B9 =D0=BE=D1=82=D0=B2=D0=B5=D1=
+=82 =D1=81 =D0=BA=D0=BE=D0=B4=D0=BE=D0=BC 201 =D0=B8 =D0=BE=D0=B1=D1=8A=D0=
+=B5=D0=BA=D1=82=D0=BE=D0=BC =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=BD=D0=
+=BE=D0=B9 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8, =D0=B2=D0=BA=D0=
+=BB=D1=8E=D1=87=D0=B0=D1=8F =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 =D1=81=D1=
+=82=D0=B0=D1=82=D1=83=D1=81=D0=B0 =D1=81&nbsp;<code>id</code>&nbsp;=D0=B8&n=
+bsp;<code>name</code>.</p></li>
+</ol>
+<h3 local-id=3D"e51aa9e0b24d" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0=D0=B8=
+=D1=81=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=
+=85=D1=81=D0=B8=D1=82=D1=83=D0=B0=D1=86=D0=B8=D0=B9:">=D0=9E=D0=B1=D1=80=D0=
+=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0 =D0=B8=D1=81=D0=BA=D0=BB=D1=8E=D1=87=D0=
+=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D1=81=D0=B8=D1=82=D1=83=D0=
+=B0=D1=86=D0=B8=D0=B9:</h3>
+<ol start=3D"1" local-id=3D"3ae714c4-c101-465b-a175-7543768dbb44">
+<li local-id=3D"291169af-e269-487d-8881-08b1d48228cd">
+<p local-id=3D"06156c306ff4"><strong>=D0=9F=D1=83=D1=81=D1=82=D0=BE=D0=B9 =
+=D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</strong>&nbsp;=E2=80=
+=93 =D0=BD=D0=B5 =D0=BF=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B8=D0=BC=D0=BE (=
+=D0=B2=D1=81=D0=B5=D0=B3=D0=B4=D0=B0 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D1=91=
+=D1=82=D1=81=D1=8F =D0=BD=D0=BE=D0=B2=D0=B0=D1=8F =D0=B7=D0=B0=D0=BF=D0=B8=
+=D1=81=D1=8C).</p></li>
+<li local-id=3D"de0456cf-b0b3-4db8-b729-d76c0f382f6a">
+<p local-id=3D"ea59095ebfa4"><strong>=D0=9A=D0=BE=D0=BD=D1=84=D0=BB=D0=B8=
+=D0=BA=D1=82 =D0=BF=D1=80=D0=B8 =D0=BF=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=BD=
+=D0=BE=D0=B9 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B5</strong>&nbsp=
+;=E2=80=93 =D0=B5=D1=81=D0=BB=D0=B8 =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA =
+=D0=BF=D1=8B=D1=82=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BE=D1=82=D0=BF=D1=80=
+=D0=B0=D0=B2=D0=B8=D1=82=D1=8C =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 =
+=D0=BF=D0=BE=D0=B2=D1=82=D0=BE=D1=80=D0=BD=D0=BE (=D1=81=D1=82=D0=B0=D1=82=
+=D1=83=D1=81 =D0=BF=D1=80=D0=B5=D0=B4=D1=8B=D0=B4=D1=83=D1=89=D0=B5=D0=B9 =
+=D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 =D0=BD=D0=B5&nbsp;<code>re=
+jected</code>), =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP=E2=80=91409=
+.</p></li>
+<li local-id=3D"8a9f04f8-e69f-4978-a6bc-46e0978363a0">
+<p local-id=3D"15de9727468b"><strong>=D0=92=D0=BD=D1=83=D1=82=D1=80=D0=B5=
+=D0=BD=D0=BD=D1=8F=D1=8F =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0</strong>&nbsp=
+;=E2=80=93 =D0=BF=D1=80=D0=B8 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B5 =D0=BF=
+=D0=BE=D0=B4=D0=BA=D0=BB=D1=8E=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=BA =D0=91=
+=D0=94 =D0=B8=D0=BB=D0=B8 =D0=B4=D1=80=D1=83=D0=B3=D0=BE=D0=B9 =D0=B2=D0=BD=
+=D1=83=D1=82=D1=80=D0=B5=D0=BD=D0=BD=D0=B5=D0=B9 =D0=BE=D1=88=D0=B8=D0=B1=
+=D0=BA=D0=B5 =E2=80=93 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP=E2=
+=80=91503 =D1=81 =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=BC:&nbsp;<code>"=
+=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=B2=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=
+=D0=BD=D0=BE =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B5=D0=BD"<=
+/code>.</p></li>
+</ol>
+<h2 local-id=3D"ff701e701ee0" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=9C=D0=B0=D0=BF=D0=BF=D0=B8=D0=BD=D0=B3=D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=8B=D1=85">=D0=9C=D0=B0=D0=BF=D0=BF=D0=B8=D0=BD=D0=B3 =D0=B4=D0=B0=
+=D0=BD=D0=BD=D1=8B=D1=85</h2>
+<h3 local-id=3D"62b3944f18a3" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=94=D0=BB=D1=8F=D1=82=D0=B5=D0=BB=D0=B0=D0=B7=D0=B0=D0=BF=
+=D1=80=D0=BE=D1=81=D0=B0:">=D0=94=D0=BB=D1=8F =D1=82=D0=B5=D0=BB=D0=B0 =D0=
+=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0:</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"925" data-layout=3D"center" data-local-id=3D"b00=
+97b9e-cbaf-479a-8c2c-01f4911331fd" class=3D"confluenceTable">
+<tbody>
+<tr data-local-id=3D"dea05403e025">
+<th data-local-id=3D"9661e04d-2c98-454e-901d-5d145ea72eb1" class=3D"conflue=
+nceTh">
+<p local-id=3D"18599127d486">=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80 =D0=B2 JSON</p></th>
+<th data-local-id=3D"defd732b-4800-463d-8f19-3fe725770f4b" class=3D"conflue=
+nceTh">
+<p local-id=3D"f96fc2bbe60c">=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5 / =D0=BA=D0=BE=D0=BC=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=80=D0=B8=D0=B9, =
+=D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BA =D0=BF=
+=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=
+=8E</p></th>
+<th data-local-id=3D"20e2f891-4a75-409a-9fe7-79fa672f31fd" class=3D"conflue=
+nceTh">
+<p local-id=3D"fd3a68a8e276">=D0=9E=D0=B1=D1=8F=D0=B7.</p></th>
+<th data-local-id=3D"2e366db0-c419-40b2-aad5-c2b707737575" class=3D"conflue=
+nceTh">
+<p local-id=3D"ce8427234a82">=D0=A2=D0=B8=D0=BF =D0=B4=D0=B0=D0=BD=D0=BD=D1=
+=8B=D1=85</p></th>
+<th data-local-id=3D"05bbde68-1859-456c-a46c-5ed6bf0b7b20" class=3D"conflue=
+nceTh">
+<p local-id=3D"0e9eb059a406">=D0=92 =D0=91=D0=94</p></th>
+</tr>
+<tr data-local-id=3D"77d5c6c041ed">
+<td data-local-id=3D"c806ad16-f038-412a-95fa-c2a981bacc5f" class=3D"conflue=
+nceTd">
+<p local-id=3D"692b95ea1d2a"><code>text</code></p></td>
+<td data-local-id=3D"ec2e980f-045f-4a1e-a3db-48f04d0eccb6" class=3D"conflue=
+nceTd">
+<p local-id=3D"d59424d968cc">=D0=A2=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=B2=D0=
+=BE=D0=B5 =D1=80=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B4=D0=BE=D0=BC=D0=
+=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=
+=8F. =D0=9C=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C NULL, =D0=BD=
+=D0=BE =D1=82=D0=BE=D0=B3=D0=B4=D0=B0 =D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=
+=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE <code>fileUrl</code>.</p></td>
+<td data-local-id=3D"776f01af-0a76-47c2-bd4d-2b8b09af3187" class=3D"conflue=
+nceTd">
+<p local-id=3D"f51cf8f1a6b5">-</p></td>
+<td data-local-id=3D"564a4de2-81ce-49f7-82ad-2926830e9cc3" class=3D"conflue=
+nceTd">
+<p local-id=3D"813e8ee746a1">string</p></td>
+<td data-local-id=3D"1a818d94-a956-408d-8855-d1d6abe6e9f6" class=3D"conflue=
+nceTd">
+<p local-id=3D"ab95d39cf439"><code>student_homework.text</code></p></td>
+</tr>
+<tr data-local-id=3D"a94768ae2dcf">
+<td data-local-id=3D"864ae00f-d529-4a9d-b01c-1265637accd6" class=3D"conflue=
+nceTd">
+<p local-id=3D"365370c891a1"><code>fileUrl</code></p></td>
+<td data-local-id=3D"300b8844-936e-40fd-8937-bd03f52beb42" class=3D"conflue=
+nceTd">
+<p local-id=3D"334e232a082d">=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=
+=B0 =D0=B7=D0=B0=D0=B3=D1=80=D1=83=D0=B6=D0=B5=D0=BD=D0=BD=D1=8B=D0=B9 =D1=
+=84=D0=B0=D0=B9=D0=BB =D1=81 =D1=80=D0=B5=D1=88=D0=B5=D0=BD=D0=B8=D0=B5=D0=
+=BC. =D0=9C=D0=BE=D0=B6=D0=B5=D1=82 =D0=B1=D1=8B=D1=82=D1=8C NULL, =D0=BD=
+=D0=BE =D1=82=D0=BE=D0=B3=D0=B4=D0=B0 =D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=
+=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE <code>text</code>.</p></td>
+<td data-local-id=3D"6aed4520-a4ce-4a02-a6e0-1bfac58440b3" class=3D"conflue=
+nceTd">
+<p local-id=3D"6972c8e3999b">-</p></td>
+<td data-local-id=3D"39df6485-639b-4e10-91ea-0beb1babdfb6" class=3D"conflue=
+nceTd">
+<p local-id=3D"c259e1b366cb">string</p></td>
+<td data-local-id=3D"72d294a7-6f72-4b0c-9c09-752b05a49854" class=3D"conflue=
+nceTd">
+<p local-id=3D"aa22fc8c585f"><code>student_homework.file_url</code></p></td=
+>
+</tr>
+</tbody>
+</table>
+</div>
+<h3 local-id=3D"05cbccfaa1d5" id=3D"id-[AK]=D0=9E=D1=82=D0=BF=D1=80=D0=B0=
+=D0=B2=D0=BA=D0=B0=D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE=D0=
+=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=
+=D0=BE=D0=BC[POSThttps://u-verse.ru/api/public/v1.0/homeworks/{homeworkId}/=
+submissions]-=D0=94=D0=BB=D1=8F=D1=82=D0=B5=D0=BB=D0=B0=D0=BE=D1=82=D0=B2=
+=D0=B5=D1=82=D0=B0:">=D0=94=D0=BB=D1=8F =D1=82=D0=B5=D0=BB=D0=B0 =D0=BE=D1=
+=82=D0=B2=D0=B5=D1=82=D0=B0:<br><br></h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"925" data-layout=3D"center" data-local-id=3D"51f=
+e0d40-eada-4120-b948-7ecde5add239" class=3D"confluenceTable">
+<tbody>
+<tr data-local-id=3D"a63322261d35">
+<th data-local-id=3D"2c6fbc09-3081-463c-88c5-e2f3ce20911e" class=3D"conflue=
+nceTh">
+<p local-id=3D"a7ce16a5f789">=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=
+=80 =D0=B2 JSON</p></th>
+<th data-local-id=3D"30b075a1-fcff-4fec-8bad-a9431ff9c3ea" class=3D"conflue=
+nceTh">
+<p local-id=3D"c1b621b809bd">=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5 / =D0=BA=D0=BE=D0=BC=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=80=D0=B8=D0=B9, =
+=D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BA =D0=BF=
+=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=
+=8E</p></th>
+<th data-local-id=3D"f2ece831-c978-498a-b1b9-38fd835daee8" class=3D"conflue=
+nceTh">
+<p local-id=3D"d15b49722a76">=D0=9E=D0=B1=D1=8F=D0=B7.</p></th>
+<th data-local-id=3D"687b7a27-3af8-47dc-8389-39e4feb543b7" class=3D"conflue=
+nceTh">
+<p local-id=3D"b050bd3261d5">=D0=A2=D0=B8=D0=BF =D0=B4=D0=B0=D0=BD=D0=BD=D1=
+=8B=D1=85</p></th>
+<th data-local-id=3D"707ecd27-3afb-4fb7-bdb3-139f7188fa58" class=3D"conflue=
+nceTh">
+<p local-id=3D"ff85a76ad2f8">=D0=92 =D0=91=D0=94</p></th>
+</tr>
+<tr data-local-id=3D"e7cec1202750">
+<td data-local-id=3D"5f94f179-d3cb-49db-98f6-d42af25dd636" class=3D"conflue=
+nceTd">
+<p local-id=3D"54e756c68b3e"><code>id</code></p></td>
+<td data-local-id=3D"f4f8107b-71b3-41da-90cc-f060832ef6cf" class=3D"conflue=
+nceTd">
+<p local-id=3D"c21c0fe6dde7">=D0=A3=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=
+=BD=D1=8B=D0=B9 =D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=
+=B0=D1=82=D0=BE=D1=80 =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=D0=
+=B9 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 (=D1=81=D1=82=D1=83=D0=
+=B4=D0=B5=D0=BD=D1=87=D0=B5=D1=81=D0=BA=D0=BE=D0=B3=D0=BE =D0=B4=D0=BE=D0=
+=BC=D0=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=
+=B8=D1=8F).</p></td>
+<td data-local-id=3D"468b3538-5cf1-45fd-81d5-ec0998868303" class=3D"conflue=
+nceTd">
+<p local-id=3D"a0c6cce36503">+</p></td>
+<td data-local-id=3D"88d6100d-8644-4895-8a41-1a2665d7d474" class=3D"conflue=
+nceTd">
+<p local-id=3D"efe107e3746b">string (UUID)</p></td>
+<td data-local-id=3D"ac77c440-d4c8-4119-ab3e-e83ff5a88750" class=3D"conflue=
+nceTd">
+<p local-id=3D"e81e339ce918"><code>student_homework.id</code></p></td>
+</tr>
+<tr data-local-id=3D"5e07727bfd82">
+<td data-local-id=3D"ee964a78-b72e-4080-8998-17bd90a26318" class=3D"conflue=
+nceTd">
+<p local-id=3D"37357d2a01a9"><code>homeworkId</code></p></td>
+<td data-local-id=3D"2a0e952e-b859-4e9b-b729-06629ad47ce3" class=3D"conflue=
+nceTd">
+<p local-id=3D"aa90cb99ac06">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=
+=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=BD=D0=
+=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D0=BF=D1=80=D0=
+=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F (<code>teac=
+her_homework.id</code>).</p></td>
+<td data-local-id=3D"da5ed373-9103-4d6c-b77c-8c8a4c066bc0" class=3D"conflue=
+nceTd">
+<p local-id=3D"0d7043b3d254">+</p></td>
+<td data-local-id=3D"393ab353-f42e-42e3-8c6c-7962132526f2" class=3D"conflue=
+nceTd">
+<p local-id=3D"c7fd7c078d11">string (UUID)</p></td>
+<td data-local-id=3D"5704cec3-9cbe-4a87-90b4-d5b5219c7c36" class=3D"conflue=
+nceTd">
+<p local-id=3D"569c69e15d41"><code>student_homework.homework_id</code></p><=
+/td>
+</tr>
+<tr data-local-id=3D"dd19831114ae">
+<td data-local-id=3D"85314373-4d00-49fa-ab9a-7288c339c1e5" class=3D"conflue=
+nceTd">
+<p local-id=3D"6e7298ab21fc"><code>studentId</code></p></td>
+<td data-local-id=3D"b7cf44c3-df99-40aa-9243-0baa5ac3e6dc" class=3D"conflue=
+nceTd">
+<p local-id=3D"6aa76c3a9f7a">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=
+=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=
+=B0, =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=B8=D0=B2=D1=88=D0=B5=D0=B3=D0=
+=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D0=B5 (<code>student.id</code>).</=
+p></td>
+<td data-local-id=3D"34176397-cc6e-4c44-be57-0d07173e816d" class=3D"conflue=
+nceTd">
+<p local-id=3D"b4712b9b0139">+</p></td>
+<td data-local-id=3D"b77d3161-4b0f-43d4-989f-77ff601d45a2" class=3D"conflue=
+nceTd">
+<p local-id=3D"6605dbc51777">string (UUID)</p></td>
+<td data-local-id=3D"d0709a75-cae9-4c1e-b9a4-527cc2c51453" class=3D"conflue=
+nceTd">
+<p local-id=3D"b64409df4d4f"><code>student_homework.student_id</code></p></=
+td>
+</tr>
+<tr data-local-id=3D"6f3d61920e86">
+<td data-local-id=3D"f9c60397-5e54-4a45-9d0c-12102b5d057c" class=3D"conflue=
+nceTd">
+<p local-id=3D"4d2bf4c46f0d"><code>text</code></p></td>
+<td data-local-id=3D"e444cf73-7835-43e5-86d5-ffc52fb08d7f" class=3D"conflue=
+nceTd">
+<p local-id=3D"019fe6939fb9">=D0=A2=D0=B5=D0=BA=D1=81=D1=82 =D1=80=D0=B5=D1=
+=88=D0=B5=D0=BD=D0=B8=D1=8F (=D0=B5=D1=81=D0=BB=D0=B8 =D0=B1=D1=8B=D0=BB =
+=D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD).</p></td>
+<td data-local-id=3D"b95db1d0-7b3d-4f7e-96b3-e8f1c802df62" class=3D"conflue=
+nceTd">
+<p local-id=3D"8d5e410378d3">-</p></td>
+<td data-local-id=3D"c85fb668-aaf1-4980-bf8a-6efeadcde00f" class=3D"conflue=
+nceTd">
+<p local-id=3D"b0be6a1e5194">string</p></td>
+<td data-local-id=3D"f9412783-3246-469a-8e67-fd489d24e1e7" class=3D"conflue=
+nceTd">
+<p local-id=3D"414a42a1d344"><code>student_homework.text</code></p></td>
+</tr>
+<tr data-local-id=3D"436212b8bc02">
+<td data-local-id=3D"a7936645-b2be-456c-8940-5f1e9083291a" class=3D"conflue=
+nceTd">
+<p local-id=3D"33fd2b35664e"><code>fileUrl</code></p></td>
+<td data-local-id=3D"4e7e1cb5-b094-4a70-b2f7-9d49fb074fbd" class=3D"conflue=
+nceTd">
+<p local-id=3D"ada1bad0db7d">=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=
+=B0 =D1=84=D0=B0=D0=B9=D0=BB (=D0=B5=D1=81=D0=BB=D0=B8 =D0=B1=D1=8B=D0=BB =
+=D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD).</p></td>
+<td data-local-id=3D"a21a4ccc-7d28-455b-9306-29bcabcd2089" class=3D"conflue=
+nceTd">
+<p local-id=3D"46f7728ec72a">-</p></td>
+<td data-local-id=3D"67f431a3-688d-406d-83e8-524ec5c314a6" class=3D"conflue=
+nceTd">
+<p local-id=3D"489f47e0bf9c">string</p></td>
+<td data-local-id=3D"132960f0-af28-4b4e-b3a5-4c19ff58eda0" class=3D"conflue=
+nceTd">
+<p local-id=3D"2d81082b336d"><code>student_homework.file_url</code></p></td=
+>
+</tr>
+<tr data-local-id=3D"2cd722e3f206">
+<td data-local-id=3D"315027f8-3a62-41f5-981c-1040687f3899" class=3D"conflue=
+nceTd">
+<p local-id=3D"fe06f9a2aa17"><code>status</code></p></td>
+<td data-local-id=3D"65956288-e2cf-4f1e-9533-a01c5db5d493" class=3D"conflue=
+nceTd">
+<p local-id=3D"90dd0c3a1bdc">=D0=9E=D0=B1=D1=8A=D0=B5=D0=BA=D1=82 =D1=81=D1=
+=82=D0=B0=D1=82=D1=83=D1=81=D0=B0 =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=
+=BA=D0=B8.</p></td>
+<td data-local-id=3D"432484c6-d101-417f-ae91-4f56054480a6" class=3D"conflue=
+nceTd">
+<p local-id=3D"990279e913b5">+</p></td>
+<td data-local-id=3D"710fcfed-4ce7-4daa-b8f6-4357c120e647" class=3D"conflue=
+nceTd">
+<p local-id=3D"fff491a1b8e7">OBJECT</p></td>
+<td data-local-id=3D"c6657f8b-78bf-401e-9215-cfe4fefbc8df" class=3D"conflue=
+nceTd">
+<p local-id=3D"c83de7befe77">-</p></td>
+</tr>
+<tr data-local-id=3D"f78b9680c9e3">
+<td data-local-id=3D"b3ccbd0a-3960-4107-aa5e-3910b8529439" class=3D"conflue=
+nceTd">
+<p local-id=3D"f41501237f3f"><code>status.id</code></p></td>
+<td data-local-id=3D"004b8f01-1d14-4815-94ba-8301284e1ff1" class=3D"conflue=
+nceTd">
+<p local-id=3D"67fd7832d69c">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=
+=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=
+=B0 =D0=B8=D0=B7 =D1=81=D0=BF=D1=80=D0=B0=D0=B2=D0=BE=D1=87=D0=BD=D0=B8=D0=
+=BA=D0=B0 <code>submission_status</code>.</p></td>
+<td data-local-id=3D"e64e0f04-195f-478d-bfa5-7e8003b25ffa" class=3D"conflue=
+nceTd">
+<p local-id=3D"53261c54148a">+</p></td>
+<td data-local-id=3D"a31a1217-4d9c-46e3-bae2-367339b02a96" class=3D"conflue=
+nceTd">
+<p local-id=3D"4419ef2e6e51">string (UUID)</p></td>
+<td data-local-id=3D"ba3dc3af-ea6f-4942-8ced-f3b6d543829e" class=3D"conflue=
+nceTd">
+<p local-id=3D"4021bf044913"><code>student_homework.status_id</code></p></t=
+d>
+</tr>
+<tr data-local-id=3D"f15d89abf24e">
+<td data-local-id=3D"784218df-1895-473f-a235-537a86b8a0db" class=3D"conflue=
+nceTd">
+<p local-id=3D"67c389a261fe"><code>status.name</code></p></td>
+<td data-local-id=3D"2de18e58-d475-4f74-8fd0-bae75d409955" class=3D"conflue=
+nceTd">
+<p local-id=3D"6fd85a075ebc">=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=81=D1=82=D0=B0=D1=82=D1=83=D1=81=D0=B0 (=D0=BD=D0=B0=D0=BF=D1=80=D0=
+=B8=D0=BC=D0=B5=D1=80, =C2=AB=D0=9D=D0=B0 =D0=BF=D1=80=D0=BE=D0=B2=D0=B5=D1=
+=80=D0=BA=D0=B5=C2=BB, =C2=AB=D0=9F=D1=80=D0=B8=D0=BD=D1=8F=D1=82=D0=BE=C2=
+=BB, =C2=AB=D0=9E=D1=82=D0=BA=D0=BB=D0=BE=D0=BD=D0=B5=D0=BD=D0=BE=C2=BB).</=
+p></td>
+<td data-local-id=3D"826348e8-3f37-4da7-88fb-ffe5081f9741" class=3D"conflue=
+nceTd">
+<p local-id=3D"5e078805874f">+</p></td>
+<td data-local-id=3D"300070eb-3311-4cc7-83be-1f9f050b2d16" class=3D"conflue=
+nceTd">
+<p local-id=3D"252dc5833757">string</p></td>
+<td data-local-id=3D"7b704275-70ad-4d6c-a7e9-d1859995b0d3" class=3D"conflue=
+nceTd">
+<p local-id=3D"2e3a68767085"><code>status.name</code></p></td>
+</tr>
+<tr data-local-id=3D"81bc1cc6a0c1">
+<td data-local-id=3D"0c86f4f5-ac0a-4e2a-9e8c-523ec5ec53a4" class=3D"conflue=
+nceTd">
+<p local-id=3D"092efb3976b2"><code>submittedAt</code></p></td>
+<td data-local-id=3D"b0478fb3-310e-4d95-b012-f5432f4e9929" class=3D"conflue=
+nceTd">
+<p local-id=3D"e1c73571706a">=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =D0=B2=D1=80=
+=D0=B5=D0=BC=D1=8F =D0=BE=D1=82=D0=BF=D1=80=D0=B0=D0=B2=D0=BA=D0=B8 =D0=B2 =
+=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5 UTC (YYYY-MM-DD HH:MM:SS).</p></=
+td>
+<td data-local-id=3D"a1854f70-d1ff-4f57-9715-71f58466062e" class=3D"conflue=
+nceTd">
+<p local-id=3D"3fbe65103659">+</p></td>
+<td data-local-id=3D"5104b0d9-80c5-45b4-b551-52dc44537633" class=3D"conflue=
+nceTd">
+<p local-id=3D"929b9f2d1310">string (datetime)</p></td>
+<td data-local-id=3D"f8fcc580-7173-4aa8-ab9f-5636d3c44490" class=3D"conflue=
+nceTd">
+<p local-id=3D"5684973d45e1"><code>student_homework.submitted_at</code></p>=
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_32_1264930457.1783511693144--

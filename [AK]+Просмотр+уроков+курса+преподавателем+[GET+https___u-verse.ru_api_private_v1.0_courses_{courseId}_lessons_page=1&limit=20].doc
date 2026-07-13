@@ -1,0 +1,1491 @@
+Date: Wed, 8 Jul 2026 11:54:38 +0000 (UTC)
+Message-ID: <566117593.33.1783511678471@845d3b410b70>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_32_1157390662.1783511678471"
+
+------=_Part_32_1157390662.1783511678471
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>[AK] =D0=9F=D1=80=D0=BE=D1=81=D0=BC=D0=BE=D1=82=D1=80 =D1=83=D1=
+=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B0 =D0=BF=D1=80=D0=
+=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=BC [GET =
+https://u-verse.ru/api/private/v1.0/courses/{courseId}/lessons?page=3D1&amp=
+;limit=3D20]</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font: var(--ds-font-body-small, Arial, Helvetica, FreeSans, sans-se=
+rif);
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        page-break-after: avoid;
+    }
+
+    pre {
+        font: var(--ds-font-code, Monaco, "Courier New", monospace);
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>[AK] =D0=9F=D1=80=D0=BE=D1=81=D0=BC=D0=BE=D1=82=D1=80 =D1=83=D1=80=
+=D0=BE=D0=BA=D0=BE=D0=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B0 =D0=BF=D1=80=D0=B5=
+=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=BC [GET htt=
+ps://u-verse.ru/api/private/v1.0/courses/{courseId}/lessons?page=3D1&amp;li=
+mit=3D20]</h1>
+    <div class=3D"Section1">
+        <div class=3D"panel" style=3D"background-color: #EAE6FF;border-colo=
+r: #998DD9;border-width: 1px;">
+<div class=3D"panelContent" style=3D"background-color: #EAE6FF;">
+<p local-id=3D"8ccecc2f95bb"></p>
+</div>
+</div>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p local-id=3D"186e9037f0aa"></p>
+</div>
+</div>
+<p local-id=3D"699a4e84f48f"></p>
+<h2 local-id=3D"979cef0690be" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9E=D0=B1=D1=89=D0=B5=D0=B5=D0=BE=D0=
+=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5">=D0=9E=D0=B1=D1=89=D0=B5=D0=B5 =D0=
+=BE=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=B5</h2>
+<p local-id=3D"6aeee1f45db1">=D0=9C=D0=B5=D1=82=D0=BE=D0=B4 =D0=BF=D1=80=D0=
+=B5=D0=B4=D0=BD=D0=B0=D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD =D0=B4=D0=BB=D1=
+=8F =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=D0=
+=B8=D1=8F =D0=B2 =D0=BF=D1=80=D0=B8=D0=BB=D0=BE=D0=B6=D0=B5=D0=BD=D0=B8=D0=
+=B8 =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=
+=BB=D1=8F =D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=
+=BB=D1=8C=D0=BD=D0=BE=D0=B9 =D0=BF=D0=BB=D0=B0=D1=82=D1=84=D0=BE=D1=80=D0=
+=BC=D1=8B U=E2=80=91verse:</p>
+<ul local-id=3D"70c4325f7238">
+<li local-id=3D"f8da7a04-e679-400b-8e50-64375b3293cd">
+<p local-id=3D"3ce92f16abc3">=D0=9F=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C =D0=BF=D1=80=D0=BE=D1=81=D0=BC=D0=B0=D1=
+=82=D1=80=D0=B8=D0=B2=D0=B0=D0=B5=D1=82 =D1=81=D0=BF=D0=B8=D1=81=D0=BE=D0=
+=BA =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=BE=D0=BF=D1=80=D0=B5=D0=B4=D0=
+=B5=D0=BB=D1=91=D0=BD=D0=BD=D0=BE=D0=B3=D0=BE =D0=BA=D1=83=D1=80=D1=81=D0=
+=B0,</p></li>
+<li local-id=3D"58aafe48-9962-4ecf-806b-4a1a48aca6db">
+<p local-id=3D"d1a2c236d50a">=D0=A1=D0=BF=D0=B8=D1=81=D0=BE=D0=BA =D0=B8=D1=
+=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D1=83=D0=B5=D1=82=D1=81=D1=8F =D0=B4=D0=
+=BB=D1=8F =D0=BD=D0=B0=D0=B2=D0=B8=D0=B3=D0=B0=D1=86=D0=B8=D0=B8 =D0=BF=D0=
+=BE =D1=83=D1=80=D0=BE=D0=BA=D0=B0=D0=BC =D0=BA=D1=83=D1=80=D1=81=D0=B0 =D0=
+=B8 =D1=83=D0=BF=D1=80=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=
+=BC=D0=B8,</p></li>
+<li local-id=3D"793afb05-a3c7-4d81-b340-19d93c745dff">
+<p local-id=3D"c9e9e7136cbe">=D0=98=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=
+=86=D0=B8=D1=8F =D0=BE=D1=82=D0=BE=D0=B1=D1=80=D0=B0=D0=B6=D0=B0=D0=B5=D1=
+=82=D1=81=D1=8F =D0=BD=D0=B0 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=
+=B5 =D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=B0 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=
+=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B0.</p></li>
+</ul>
+<p local-id=3D"7ccd85fff651">=D0=92 =D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=B5 =
+=D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F =
+=D1=81=D0=BE=D0=BA=D1=80=D0=B0=D1=89=D1=91=D0=BD=D0=BD=D0=B0=D1=8F =D0=B8=
+=D0=BD=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=BF=D0=BE =D1=83=
+=D1=80=D0=BE=D0=BA=D0=B0=D0=BC, =D0=BD=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=
+=D0=B8=D0=BC=D0=B0=D1=8F =D0=B4=D0=BB=D1=8F =D0=B8=D1=85 =D0=BE=D1=82=D0=BE=
+=D0=B1=D1=80=D0=B0=D0=B6=D0=B5=D0=BD=D0=B8=D1=8F =D0=BD=D0=B0 =D1=8D=D0=BA=
+=D1=80=D0=B0=D0=BD=D0=B5 =D1=81=D0=BE =D1=81=D0=BF=D0=B8=D1=81=D0=BA=D0=BE=
+=D0=BC =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2.</p>
+<p local-id=3D"190ced50a4d7"><strong>=D0=92 =D1=8D=D1=82=D0=BE=D0=B9 =D0=B2=
+=D0=B5=D1=80=D1=81=D0=B8=D0=B8 API:</strong></p>
+<ul local-id=3D"ab4a44dbbd5d">
+<li local-id=3D"954723019181">
+<p local-id=3D"596013e68585">=D0=9F=D0=BE=D0=B4=D0=B4=D0=B5=D1=80=D0=B6=D0=
+=B8=D0=B2=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=B0=D0=B3=D0=B8=D0=BD=D0=
+=B0=D1=86=D0=B8=D1=8F =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=
+=82=D0=BE=D0=B2 =D1=81 =D0=BF=D0=BE=D0=BC=D0=BE=D1=89=D1=8C=D1=8E query-=D0=
+=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=BE=D0=B2&nbsp;<code>page</=
+code>&nbsp;=D0=B8&nbsp;<code>limit</code>.</p></li>
+<li local-id=3D"ce9b32d70f14">
+<p local-id=3D"da379e0bb808">=D0=A3=D1=80=D0=BE=D0=BA=D0=B8 =D0=B2=D0=BE=D0=
+=B7=D0=B2=D1=80=D0=B0=D1=89=D0=B0=D1=8E=D1=82=D1=81=D1=8F =D0=B2 =D0=BF=D0=
+=BE=D1=80=D1=8F=D0=B4=D0=BA=D0=B5 =D0=B8=D1=85 =D1=81=D0=BB=D0=B5=D0=B4=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B5 (=
+=D0=BF=D0=BE=D0=BB=D0=B5&nbsp;<code>order</code>),</p></li>
+<li local-id=3D"d8be0675597a">
+<p local-id=3D"6cdda78d6174">=D0=94=D0=BB=D1=8F =D0=BA=D0=B0=D0=B6=D0=B4=D0=
+=BE=D0=B3=D0=BE =D1=83=D1=80=D0=BE=D0=BA=D0=B0 =D0=B2=D0=BE=D0=B7=D0=B2=D1=
+=80=D0=B0=D1=89=D0=B0=D0=B5=D1=82=D1=81=D1=8F =D0=B8=D0=B4=D0=B5=D0=BD=D1=
+=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80, =D0=BD=D0=B0=D0=B7=D0=
+=B2=D0=B0=D0=BD=D0=B8=D0=B5, =D0=BF=D0=BE=D1=80=D1=8F=D0=B4=D0=BA=D0=BE=D0=
+=B2=D1=8B=D0=B9 =D0=BD=D0=BE=D0=BC=D0=B5=D1=80 =D0=B8 =D0=B8=D0=BD=D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=D1=86=D0=B8=D1=8F =D0=BE =D0=BD=D0=B0=D0=BB=D0=B8=D1=
+=87=D0=B8=D0=B8 =D1=82=D0=B5=D1=81=D1=82=D0=B0 =D0=B8 =D0=B4=D0=BE=D0=BC=D0=
+=B0=D1=88=D0=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=
+=8F.</p></li>
+</ul>
+<h2 local-id=3D"5eddec57e19d" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF=D1=
+=8B=D0=B8=D0=BE=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B8=D1=8F=
+">=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF=D1=8B =D0=B8 =D0=BE=D0=B3=D1=80=D0=
+=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B8=D1=8F</h2>
+<p local-id=3D"1a0abd495800">=D0=9C=D0=B5=D1=82=D0=BE=D0=B4 =D0=B4=D0=BE=D0=
+=BB=D0=B6=D0=B5=D0=BD =D0=B1=D1=8B=D1=82=D1=8C =D0=B4=D0=BE=D1=81=D1=82=D1=
+=83=D0=BF=D0=B5=D0=BD =D1=82=D0=BE=D0=BB=D1=8C=D0=BA=D0=BE =D0=B4=D0=BB=D1=
+=8F:</p>
+<ul local-id=3D"4d7de71e-2e13-4964-baa7-cd75b1b96541">
+<li local-id=3D"95218ed5-0a5e-4558-bd0b-739f060d2ff4">
+<p local-id=3D"30b6bd509b92">=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=
+=BE=D0=B2=D0=B0=D0=BD=D0=BD=D1=8B=D1=85 =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=
+=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D0=B5=D0=B9 (=D1=80=D0=BE=D0=BB=D1=
+=8C&nbsp;<code>private</code>).</p></li>
+</ul>
+<p local-id=3D"02a7228d0ed5">=D0=9C=D0=B5=D1=82=D0=BE=D0=B4&nbsp;<strong>=
+=D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B5=D0=BD</strong>&nbsp;=
+=D0=B4=D0=BB=D1=8F =D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=BA=D0=BE=D0=B2 =D0=B8 =
+=D0=BD=D0=B5=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=BE=D0=B2=D0=B0=D0=
+=BD=D0=BD=D1=8B=D1=85 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=
+=82=D0=B5=D0=BB=D0=B5=D0=B9.</p>
+<h2 local-id=3D"c8e53e422175" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81">=
+=D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81</h2>
+<p local-id=3D"0fd1a4023191"><strong>Method type:</strong>&nbsp;GET</p>
+<p local-id=3D"e89db8c5396d"><strong>BaseURL:</strong>&nbsp;<a class=3D"ext=
+ernal-link" href=3D"https://u-verse.ru/api" rel=3D"nofollow">https://u-vers=
+e.ru/api</a></p>
+<p local-id=3D"386821841100"><strong>API name:</strong>&nbsp;private</p>
+<p local-id=3D"fc79ba47f585"><strong>API version:</strong>&nbsp;v1.0</p>
+<p local-id=3D"4ecfcc24bab9"><strong>Method name:</strong>&nbsp;courses/{co=
+urseId}/lessons?page=3D1&amp;limit=3D20</p>
+<p local-id=3D"7e1f2d235b11"><strong>Authorization</strong>:</p>
+<ul local-id=3D"8430eab4-23e0-4f73-bae6-b598c5791e4a">
+<li local-id=3D"c58325c7-8147-4512-81c9-6a86e6284a65">
+<p local-id=3D"3f1f11875520">=D0=9F=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=
+=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C: Bearer Token (=D0=BE=D0=B1=D1=8F=D0=B7=
+=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE)</p></li>
+</ul>
+<p local-id=3D"968e990dab87"><strong>Headers:</strong></p>
+<ul local-id=3D"56481d05-5556-430e-8954-69e6fa24934a">
+<li local-id=3D"c5719121-1a2e-40b5-9314-f83cdd4ab11d">
+<p local-id=3D"7a9a404159f2">Authorization: Bearer Token (=D0=BE=D0=B1=D1=
+=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9)</p></li>
+<li local-id=3D"afef15ed-55be-4040-a479-d2c3c3c7de4d">
+<p local-id=3D"76d93cd15b57">Content-Type: application/json (=D0=BD=D0=B5 =
+=D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9)</=
+p></li>
+</ul>
+<p local-id=3D"392339da7838"><strong>Path-parameters:</strong></p>
+<p local-id=3D"00182667e40c">=E2=80=A2&nbsp;<strong>courseId</strong><br>
+=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=
+=80 =D0=BA=D1=83=D1=80=D1=81=D0=B0, =D1=83=D1=80=D0=BE=D0=BA=D0=B8 =D0=BA=
+=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=B3=D0=BE =D0=B7=D0=B0=D0=BF=D1=80=D0=B0=
+=D1=88=D0=B8=D0=B2=D0=B0=D1=8E=D1=82=D1=81=D1=8F.<br>
+=D0=A4=D0=BE=D1=80=D0=BC=D0=B0=D1=82: UUID.<br>
+=D0=9E=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D0=B9.<b=
+r>
+=D0=92 =D0=91=D0=94:&nbsp;<code>course.id</code></p>
+<p local-id=3D"be0e76ffdf51"><strong>Query-parameters:</strong></p>
+<p local-id=3D"84680d5ce959">=E2=80=A2&nbsp;<strong>page</strong><br>
+=D0=9D=D0=BE=D0=BC=D0=B5=D1=80 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=
+=D1=8B =D0=B4=D0=BB=D1=8F =D0=BF=D0=B0=D0=B3=D0=B8=D0=BD=D0=B0=D1=86=D0=B8=
+=D0=B8.<br>
+=D0=9E=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: =D1=86=
+=D0=B5=D0=BB=D1=8B=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=B0 =D0=B1=D0=BE=D0=BB=
+=D1=8C=D1=88=D0=B5 0.<br>
+=D0=9D=D0=B5 =D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D1=8B=D0=B9.<br>
+=D0=9F=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=B0=D0=BD=D0=B8=D1=8E: 1.<br>
+=D0=92 =D0=91=D0=94: =D0=BD=D0=B5=D1=82</p>
+<p local-id=3D"fb00e4f166d6">=E2=80=A2&nbsp;<strong>limit</strong><br>
+=D0=9C=D0=B0=D0=BA=D1=81=D0=B8=D0=BC=D0=B0=D0=BB=D1=8C=D0=BD=D0=BE=D0=B5 =
+=D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B5=D0=B9 =
+=D0=BD=D0=B0 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=83.<br>
+=D0=9E=D0=B3=D1=80=D0=B0=D0=BD=D0=B8=D1=87=D0=B5=D0=BD=D0=B8=D0=B5: =D1=86=
+=D0=B5=D0=BB=D1=8B=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=B0 =D0=BE=D1=82 1 =D0=
+=B4=D0=BE 100.<br>
+=D0=9D=D0=B5 =D0=BE=D0=B1=D1=8F=D0=B7=D0=B0=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=
+=D1=8B=D0=B9.<br>
+=D0=9F=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=B0=D0=BD=D0=B8=D1=8E: 20.<br=
+>
+=D0=92 =D0=91=D0=94: =D0=BD=D0=B5=D1=82</p>
+<h2 local-id=3D"2095cff05aba" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0:">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=
+=80 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0:</h2>
+<h3 local-id=3D"37931e9d7966" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81:"><=
+strong>=D0=97=D0=B0=D0=BF=D1=80=D0=BE=D1=81:</strong></h3>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">GET htt=
+ps://u-verse.ru/api/private/v1.0/courses/514c2894-e782-4487-9557-43e8581526=
+3e/lessons?page=3D1&amp;limit=3D20
+Authorization: Bearer eyJhbGciOiJIUzI1NiIs...
+Content-Type: application/json</pre>
+</div>
+</div>
+<p local-id=3D"19c243803fed"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=B7=D0=B0=
+=D0=BF=D1=80=D0=BE=D1=81=D0=B0 (Body):</strong></p>
+<p local-id=3D"efde68920101">=D0=9D=D0=B5 =D0=BF=D1=80=D0=B5=D0=B4=D1=83=D1=
+=81=D0=BC=D0=BE=D1=82=D1=80=D0=B5=D0=BD=D0=BE.</p>
+<h2 local-id=3D"6c43139fa6c9" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=A3=D1=81=D0=BF=D0=B5=D1=85">=D0=9F=D1=
+=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=A3=
+=D1=81=D0=BF=D0=B5=D1=85</h2>
+<p local-id=3D"ffad9ba51745"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;200</p>
+<p local-id=3D"02781daec452"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "page": 1,
+  "limit": 20,
+  "count": 45,
+  "lessons": [
+    {
+      "id": "b51f6598-1698-4c7b-8a7e-e108d1c747f0",
+      "name": "=D0=92=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D0=B5 =D0=B2 =D0=
+=BF=D0=B5=D1=80=D0=B5=D0=BC=D0=B5=D0=BD=D0=BD=D1=8B=D0=B5",
+      "description": "=D0=9E=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D1=8B=D0=B5 =D0=
+=BF=D0=BE=D0=BD=D1=8F=D1=82=D0=B8=D1=8F =D0=BF=D0=B5=D1=80=D0=B5=D0=BC=D0=
+=B5=D0=BD=D0=BD=D1=8B=D1=85 =D0=B2 =D0=BF=D1=80=D0=BE=D0=B3=D1=80=D0=B0=D0=
+=BC=D0=BC=D0=B8=D1=80=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D0=B8",
+      "moduleId": "c72f6598-1698-4c7b-8a7e-e108d1c747f1",
+      "moduleName": "=D0=9C=D0=BE=D0=B4=D1=83=D0=BB=D1=8C 1: =D0=9E=D1=81=
+=D0=BD=D0=BE=D0=B2=D1=8B",
+      "moduleSortOrder": 1,
+      "lessonType": "video",
+      "lessonDate": "2026-06-01",
+      "lessonTime": "10:00:00",
+      "roomLink": "https://zoom.us/j/123456789",
+      "recordingLink": "https://u-verse.ru/recordings/lesson_001",
+      "duration": 45,
+      "hasTest": true,
+      "hasHomework": false,
+      "createdAt": "2026-06-01T10:00:00Z"
+    },
+    {
+      "id": "d83f6598-1698-4c7b-8a7e-e108d1c747f2",
+      "name": "=D0=A2=D0=B8=D0=BF=D1=8B =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=
+=85",
+      "description": "=D0=98=D0=B7=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D0=
+=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=BD=D1=8B=D1=85 =D1=82=D0=B8=D0=BF=D0=BE=D0=
+=B2 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85",
+      "moduleId": "c72f6598-1698-4c7b-8a7e-e108d1c747f1",
+      "moduleName": "=D0=9C=D0=BE=D0=B4=D1=83=D0=BB=D1=8C 1: =D0=9E=D1=81=
+=D0=BD=D0=BE=D0=B2=D1=8B",
+      "moduleSortOrder": 1,
+      "lessonType": "webinar",
+      "lessonDate": "2026-06-08",
+      "lessonTime": "10:00:00",
+      "roomLink": "https://zoom.us/j/987654321",
+      "recordingLink": null,
+      "duration": 90,
+      "hasTest": false,
+      "hasHomework": true,
+      "createdAt": "2026-06-02T10:00:00Z"
+    },
+    {
+      "id": "e94f6598-1698-4c7b-8a7e-e108d1c747f3",
+      "name": "=D0=A3=D1=81=D0=BB=D0=BE=D0=B2=D0=BD=D1=8B=D0=B5 =D0=BE=D0=
+=BF=D0=B5=D1=80=D0=B0=D1=82=D0=BE=D1=80=D1=8B",
+      "description": "=D0=98=D0=B7=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D0=B5 =D1=
+=83=D1=81=D0=BB=D0=BE=D0=B2=D0=BD=D1=8B=D1=85 =D0=BE=D0=BF=D0=B5=D1=80=D0=
+=B0=D1=82=D0=BE=D1=80=D0=BE=D0=B2 if, else, switch",
+      "moduleId": "f05f6598-1698-4c7b-8a7e-e108d1c747f4",
+      "moduleName": "=D0=9C=D0=BE=D0=B4=D1=83=D0=BB=D1=8C 2: =D0=A3=D0=BF=
+=D1=80=D0=B0=D0=B2=D0=BB=D1=8F=D1=8E=D1=89=D0=B8=D0=B5 =D0=BA=D0=BE=D0=BD=
+=D1=81=D1=82=D1=80=D1=83=D0=BA=D1=86=D0=B8=D0=B8",
+      "moduleSortOrder": 2,
+      "lessonType": "text",
+      "lessonDate": "2026-06-15",
+      "lessonTime": null,
+      "roomLink": null,
+      "recordingLink": null,
+      "duration": 60,
+      "hasTest": true,
+      "hasHomework": true,
+      "createdAt": "2026-06-03T10:00:00Z"
+    }
+  ]
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"ec9f917b4706" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=A3=D1=81=D0=BF=D0=B5=D1=85-=D0=9F=D1=
+=83=D1=81=D1=82=D0=BE=D0=B9=D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=
+=D1=82">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=
+=D0=B0 - =D0=A3=D1=81=D0=BF=D0=B5=D1=85 - =D0=9F=D1=83=D1=81=D1=82=D0=BE=D0=
+=B9 =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82</h2>
+<p local-id=3D"2359fba789ad">=D0=95=D1=81=D0=BB=D0=B8 =D0=B2 =D0=BA=D1=83=
+=D1=80=D1=81=D0=B5 =D0=BD=D0=B5=D1=82 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =
+=D0=B8=D0=BB=D0=B8 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=88=D0=B5=D0=BD=D0=BD=
+=D0=B0=D1=8F =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B0 =D0=BD=D0=B5 =
+=D1=81=D0=BE=D0=B4=D0=B5=D1=80=D0=B6=D0=B8=D1=82 =D0=B4=D0=B0=D0=BD=D0=BD=
+=D1=8B=D1=85.</p>
+<p local-id=3D"9838e61c9763"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;200</p>
+<p local-id=3D"1275d644f640"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "page": 1,
+  "limit": 20,
+  "count": 0,
+  "lessons": []
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"bd8e8508e652" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=9E=D1=88=D0=B8=D0=B1=D0=BA=D0=B0=D0=
+=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8">=D0=9F=D1=
+=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=9E=
+=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=
+=D0=B0=D1=86=D0=B8=D0=B8</h2>
+<p local-id=3D"89f440217235">=D0=95=D1=81=D0=BB=D0=B8 =D0=B2 =D0=B7=D0=B0=
+=D0=BF=D1=80=D0=BE=D1=81=D0=B5 =D0=BD=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=
+=D0=B0=D0=BD =D0=B8=D0=BB=D0=B8 =D0=BD=D0=B5=D0=B4=D0=B5=D0=B9=D1=81=D1=82=
+=D0=B2=D0=B8=D1=82=D0=B5=D0=BB=D0=B5=D0=BD =D1=82=D0=BE=D0=BA=D0=B5=D0=BD =
+=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8.</p>
+<p local-id=3D"210594c02a8f"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;401</p>
+<p local-id=3D"857a8b3a2ab4"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=9D=D0=B5=D0=BE=D0=B1=D1=85=D0=BE=D0=B4=D0=B8=D0=BC=D0=B0 =
+=D0=B0=D0=B2=D1=82=D0=BE=D1=80=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D1=8F"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"e96a226a522d" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=9D=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D0=
+=B0=D1=82=D0=BE=D1=87=D0=BD=D0=BE=D0=BF=D1=80=D0=B0=D0=B2">=D0=9F=D1=80=D0=
+=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=9D=D0=B5=
+=D0=B4=D0=BE=D1=81=D1=82=D0=B0=D1=82=D0=BE=D1=87=D0=BD=D0=BE =D0=BF=D1=80=
+=D0=B0=D0=B2</h2>
+<p local-id=3D"2eb2f8a00d74">=D0=95=D1=81=D0=BB=D0=B8 =D1=82=D0=BE=D0=BA=D0=
+=B5=D0=BD =D0=BF=D1=80=D0=B8=D0=BD=D0=B0=D0=B4=D0=BB=D0=B5=D0=B6=D0=B8=D1=
+=82 =D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=
+=8E =D1=81 =D1=80=D0=BE=D0=BB=D1=8C=D1=8E, =D0=BE=D1=82=D0=BB=D0=B8=D1=87=
+=D0=BD=D0=BE=D0=B9 =D0=BE=D1=82 =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=
+=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F.</p>
+<p local-id=3D"7326aac483a1"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;403</p>
+<p local-id=3D"294f770bd512"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=BF =D0=B7=D0=B0=D0=BF=D1=80=
+=D0=B5=D1=89=D1=91=D0=BD. =D0=A2=D1=80=D0=B5=D0=B1=D1=83=D0=B5=D1=82=D1=81=
+=D1=8F =D1=80=D0=BE=D0=BB=D1=8C =D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=
+=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"92444a11ea33" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=9D=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D1=
+=8B=D0=B9=D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B7=D0=B0=D0=BF=D1=80=D0=BE=
+=D1=81=D0=B0">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=
+=D1=82=D0=B0 - =D0=9D=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D1=8B=D0=B9 =D1=84=D0=
+=BE=D1=80=D0=BC=D0=B0=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0</h2>
+<p local-id=3D"ddaf937b12f7">=D0=95=D1=81=D0=BB=D0=B8 =D0=B2 =D0=B7=D0=B0=
+=D0=BF=D1=80=D0=BE=D1=81=D0=B5 =D0=BE=D0=B4=D0=B8=D0=BD =D0=B8=D0=B7 =D0=BF=
+=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D0=BE=D0=B2 =D1=83=D0=BA=D0=B0=
+=D0=B7=D0=B0=D0=BD =D0=BD=D0=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=
+=D0=BD=D0=BE:&nbsp;<code>page</code>,&nbsp;<code>limit</code>&nbsp;=D0=B8=
+=D0=BB=D0=B8&nbsp;<code>courseId</code>&nbsp;=D0=B8=D0=BC=D0=B5=D0=B5=D1=82=
+ =D0=BD=D0=B5=D0=B2=D0=B5=D1=80=D0=BD=D1=8B=D0=B9 =D1=84=D0=BE=D1=80=D0=BC=
+=D0=B0=D1=82.</p>
+<p local-id=3D"269e6ad26396"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;400</p>
+<p local-id=3D"e4a423477cc0"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=9D=D0=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D1=
+=8B=D0=B9 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0",
+  "details": "page: =D0=BE=D0=B6=D0=B8=D0=B4=D0=B0=D0=BB=D0=BE=D1=81=D1=8C =
+=D1=86=D0=B5=D0=BB=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=B1=D0=BE=
+=D0=BB=D1=8C=D1=88=D0=B5 0"
+}</pre>
+</div>
+</div>
+<p local-id=3D"18c5262cdb96">=D0=B8=D0=BB=D0=B8</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=9D=D0=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D1=
+=8B=D0=B9 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82 =D0=B7=D0=B0=D0=BF=D1=80=D0=
+=BE=D1=81=D0=B0",
+  "details": "limit: =D0=BE=D0=B6=D0=B8=D0=B4=D0=B0=D0=BB=D0=BE=D1=81=D1=8C=
+ =D1=86=D0=B5=D0=BB=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=BE=D1=82=
+ 1 =D0=B4=D0=BE 100"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"2962848939ba" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=9A=D1=83=D1=80=D1=81=D0=BD=D0=B5=D0=
+=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0 - =D0=9A=D1=83=D1=80=D1=81 =D0=BD=D0=B5 =
+=D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD</h2>
+<p local-id=3D"e20d865cd7a8">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B5=D1=80=D0=
+=B5=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B9&nbsp;<code>courseId</code>&nbsp;=D0=
+=BD=D0=B5 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=
+=B2 =D1=81=D0=B8=D1=81=D1=82=D0=B5=D0=BC=D0=B5.</p>
+<p local-id=3D"9047bde92210"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;404</p>
+<p local-id=3D"79bde4722501"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=9A=D1=83=D1=80=D1=81 =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=
+=D0=B5=D0=BD"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"098d6d500589" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80=D0=
+=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0-=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81=D0=
+=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=D0=B5=D0=BD,=D0=BE=D1=88=D0=
+=B8=D0=B1=D0=BA=D0=B0=D0=BD=D0=B0=D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=B5=
+">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D1=80 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0=
+ - =D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=
+=82=D1=83=D0=BF=D0=B5=D0=BD, =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0 =D0=BD=D0=
+=B0 =D1=81=D0=B5=D1=80=D0=B2=D0=B5=D1=80=D0=B5</h2>
+<p local-id=3D"1b052828630b"><strong>=D0=9A=D0=BE=D0=B4 HTTP:</strong>&nbsp=
+;503</p>
+<p local-id=3D"7328dba92626"><strong>=D0=A2=D0=B5=D0=BB=D0=BE =D0=BE=D1=82=
+=D0=B2=D0=B5=D1=82=D0=B0 (Body):</strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+  "error": "=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=B2=D1=80=D0=B5=D0=BC=
+=D0=B5=D0=BD=D0=BD=D0=BE =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=BF=
+=D0=B5=D0=BD"
+}</pre>
+</div>
+</div>
+<h2 local-id=3D"3479b8bffaa3" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=A2=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=
+=B0=D0=BD=D0=B8=D1=8F=D0=BA=D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=
+=D0=B8=D0=B8">=D0=A2=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =
+=D0=BA =D1=80=D0=B5=D0=B0=D0=BB=D0=B8=D0=B7=D0=B0=D1=86=D0=B8=D0=B8</h2>
+<h3 local-id=3D"304b9c2f2c47" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=90=D0=BB=D0=B3=D0=BE=D1=80=D0=B8=D1=
+=82=D0=BC=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=8B:">=D0=90=D0=BB=D0=B3=D0=BE=D1=
+=80=D0=B8=D1=82=D0=BC =D1=80=D0=B0=D0=B1=D0=BE=D1=82=D1=8B:</h3>
+<ol start=3D"1" local-id=3D"9bbcde467e70">
+<li local-id=3D"0d07c77c-c102-4492-a8bc-34fe6ed635d6">
+<p local-id=3D"d454b632d4fd">=D0=9F=D0=BE=D0=BB=D1=83=D1=87=D0=B8=D1=82=D1=
+=8C =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81 =D0=B8 =D0=BF=D1=80=D0=BE=D0=B2=D0=
+=B5=D1=80=D0=B8=D1=82=D1=8C =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D0=B5 =D0=
+=B7=D0=B0=D0=B3=D0=BE=D0=BB=D0=BE=D0=B2=D0=BA=D0=B0&nbsp;<code>Authorizatio=
+n</code>.</p>
+<ul local-id=3D"5c3d32a7-1047-44a4-b61a-1189a0096e5e">
+<li local-id=3D"a93bf38f-1152-479d-a594-1bb4c78d0d40">
+<p local-id=3D"f178e601ba90">=D0=95=D1=81=D0=BB=D0=B8 =D0=B7=D0=B0=D0=B3=D0=
+=BE=D0=BB=D0=BE=D0=B2=D0=BE=D0=BA =D0=BE=D1=82=D1=81=D1=83=D1=82=D1=81=D1=
+=82=D0=B2=D1=83=D0=B5=D1=82 =E2=80=93 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=
+=D1=8C =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 HTTP-401.</p></li>
+<li local-id=3D"c50e224e-ed8e-49bb-af76-c37e0ba9b9b8">
+<p local-id=3D"27e34ac71295">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D1=80=D0=B8=D1=
+=81=D1=83=D1=82=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =E2=80=93 =D0=BF=D1=80=
+=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=
+=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D1=82=D0=BE=D0=BA=D0=B5=D0=BD=D0=B0 =D0=B8 =
+=D0=B8=D0=B7=D0=B2=D0=BB=D0=B5=D1=87=D1=8C =D1=80=D0=BE=D0=BB=D1=8C =D0=BF=
+=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8F.</p></li=
+>
+<li local-id=3D"13384dfb-17e3-4be8-83f4-385b1acbc2ed">
+<p local-id=3D"4fbd3cd41cf4">=D0=95=D1=81=D0=BB=D0=B8 =D1=80=D0=BE=D0=BB=D1=
+=8C =D0=BD=D0=B5&nbsp;<code>private</code>&nbsp;(=D0=BF=D1=80=D0=B5=D0=BF=
+=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C) =E2=80=93 =D0=B2=D0=
+=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D1=83 HTTP=
+-403.</p></li>
+</ul></li>
+<li local-id=3D"f4918e44-d025-42f4-9ede-02ba429850a5">
+<p local-id=3D"5d0910e891c9">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D0=BE=D0=B2=D0=B0=D0=
+=BD=D0=B8=D0=B5 =D0=BA=D1=83=D1=80=D1=81=D0=B0 =D1=81 =D0=BF=D0=B5=D1=80=D0=
+=B5=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=BC&nbsp;<code>courseId</code>&nbsp;=D0=
+=B2 =D0=91=D0=94.</p>
+<ul local-id=3D"b101072c-5332-444f-a012-26c68402ce9d">
+<li local-id=3D"5e94ee14-cb7c-4892-bfb1-c3e995fc74d4">
+<p local-id=3D"9d6f803f2b6c">=D0=95=D1=81=D0=BB=D0=B8 =D0=BA=D1=83=D1=80=D1=
+=81 =D0=BD=D0=B5 =D0=BD=D0=B0=D0=B9=D0=B4=D0=B5=D0=BD - =D0=B2=D0=B5=D1=80=
+=D0=BD=D1=83=D1=82=D1=8C HTTP-404 =D1=81 =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=
+=BE=D0=BC:&nbsp;<code>"=D0=9A=D1=83=D1=80=D1=81 =D0=BD=D0=B5 =D0=BD=D0=B0=
+=D0=B9=D0=B4=D0=B5=D0=BD"</code>.</p></li>
+</ul></li>
+<li local-id=3D"bc2d18e4-c115-4b19-808d-faa5aaa958ec">
+<p local-id=3D"0ce3a5fd99cb">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C, =D1=87=D1=82=D0=BE =D0=BA=D1=83=D1=80=D1=81 =D0=BF=D1=80=D0=B8=
+=D0=BD=D0=B0=D0=B4=D0=BB=D0=B5=D0=B6=D0=B8=D1=82 =D0=BF=D1=80=D0=B5=D0=BF=
+=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E, =D0=BE=D1=82=D0=BF=
+=D1=80=D0=B0=D0=B2=D0=B8=D0=B2=D1=88=D0=B5=D0=BC=D1=83 =D0=B7=D0=B0=D0=BF=
+=D1=80=D0=BE=D1=81 (=D0=BF=D0=BE=D0=BB=D0=B5&nbsp;<code>employee_id</code>)=
+.</p>
+<ul local-id=3D"9f349225-bf73-464f-a3a2-31fa2b411cac">
+<li local-id=3D"858fb1ca-b35b-4058-8d5e-1207fecf8370">
+<p local-id=3D"8a510c4e168b">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D1=80=D0=B5=D0=
+=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C =D0=BD=D0=B5 =D1=
+=8F=D0=B2=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=B2=D0=BB=D0=B0=D0=B4=D0=
+=B5=D0=BB=D1=8C=D1=86=D0=B5=D0=BC =D0=BA=D1=83=D1=80=D1=81=D0=B0 =E2=80=93 =
+=D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP-403 =D1=81 =D1=82=D0=B5=D0=
+=BA=D1=81=D1=82=D0=BE=D0=BC:&nbsp;<code>"=D0=94=D0=BE=D1=81=D1=82=D1=83=D0=
+=BF =D0=B7=D0=B0=D0=BF=D1=80=D0=B5=D1=89=D1=91=D0=BD"</code>.</p></li>
+</ul></li>
+<li local-id=3D"f8addbb4-7ea1-4ac1-abeb-73ce8d56b93a">
+<p local-id=3D"d966da68045c">=D0=9F=D1=80=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=
+=82=D1=8C query-=D0=BF=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B&nbsp=
+;<code>page</code>&nbsp;=D0=B8&nbsp;<code>limit</code>:</p>
+<ul local-id=3D"1940d4ce-4520-47a9-83ff-b126249accf9">
+<li local-id=3D"3b33c083-413d-435d-a022-13fdb41bd274">
+<p local-id=3D"8f61c0024a92">=D0=95=D1=81=D0=BB=D0=B8&nbsp;<code>page</code=
+>&nbsp;=D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD =E2=80=93 =D0=BF=D1=80=D0=
+=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C, =D1=87=D1=82=D0=BE =D1=8D=D1=82=D0=
+=BE =D1=86=D0=B5=D0=BB=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=B1=D0=
+=BE=D0=BB=D1=8C=D1=88=D0=B5 0.</p></li>
+<li local-id=3D"28c51014-4e78-4ca9-9cf4-821a5379eeda">
+<p local-id=3D"fd15d33b70de">=D0=95=D1=81=D0=BB=D0=B8&nbsp;<code>limit</cod=
+e>&nbsp;=D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD =E2=80=93 =D0=BF=D1=80=
+=D0=BE=D0=B2=D0=B5=D1=80=D0=B8=D1=82=D1=8C, =D1=87=D1=82=D0=BE =D1=8D=D1=82=
+=D0=BE =D1=86=D0=B5=D0=BB=D0=BE=D0=B5 =D1=87=D0=B8=D1=81=D0=BB=D0=BE =D0=BE=
+=D1=82 1 =D0=B4=D0=BE 100.</p></li>
+<li local-id=3D"60e97f2e-c123-472a-a9cf-83087a414bca">
+<p local-id=3D"630d4741c254">=D0=95=D1=81=D0=BB=D0=B8 =D0=BF=D0=B0=D1=80=D0=
+=B0=D0=BC=D0=B5=D1=82=D1=80=D1=8B =D0=BD=D0=B5 =D0=BF=D0=B5=D1=80=D0=B5=D0=
+=B4=D0=B0=D0=BD=D1=8B =E2=80=93 =D0=B8=D1=81=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=
+=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=B7=D0=BD=D0=B0=D1=87=D0=B5=D0=BD=D0=B8=
+=D1=8F =D0=BF=D0=BE =D1=83=D0=BC=D0=BE=D0=BB=D1=87=D0=B0=D0=BD=D0=B8=D1=8E:=
+&nbsp;<code>page=3D1</code>,&nbsp;<code>limit=3D20</code>.</p></li>
+<li local-id=3D"5c5552a7-99ad-4fee-a868-662375dff1b4">
+<p local-id=3D"679d9b957276">=D0=9F=D1=80=D0=B8 =D0=BB=D1=8E=D0=B1=D0=BE=D0=
+=B9 =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B5 =D0=B2=D0=B0=D0=BB=D0=B8=D0=B4=D0=
+=B0=D1=86=D0=B8=D0=B8 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C HTTP-400 =
+=D1=81 =D1=81=D0=BE=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D1=81=D1=82=D0=B2=D1=83=
+=D1=8E=D1=89=D0=B8=D0=BC =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=BC =D0=BE=
+=D1=88=D0=B8=D0=B1=D0=BA=D0=B8.</p></li>
+</ul></li>
+<li local-id=3D"6025ff7c-c30a-4d52-9959-3261319e62a8">
+<p local-id=3D"9ec63d0a8770">=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=
+=82=D1=8C =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81 =D0=BA =D0=91=D0=94 =D0=B4=
+=D0=BB=D1=8F =D0=BF=D0=BE=D0=BB=D1=83=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=
+=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B0:</p>
+<ul local-id=3D"24b550d894fc">
+<li local-id=3D"4aaf8e7f-907b-4bd5-b567-ac95b90f08d4">
+<p local-id=3D"4456ce36e1ac">=D0=98=D0=B7 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=
+=86=D1=8B&nbsp;<code>lesson</code>&nbsp;=D0=B2=D1=8B=D0=B1=D1=80=D0=B0=D1=
+=82=D1=8C =D0=B2=D1=81=D0=B5 =D1=83=D1=80=D0=BE=D0=BA=D0=B8, =D1=81=D0=B2=
+=D1=8F=D0=B7=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D1=81 =D0=BC=D0=BE=D0=B4=D1=83=
+=D0=BB=D1=8F=D0=BC=D0=B8 =D0=BA=D1=83=D1=80=D1=81=D0=B0 (<code>module.cours=
+e_id</code>&nbsp;=3D =D0=BF=D0=B5=D1=80=D0=B5=D0=B4=D0=B0=D0=BD=D0=BD=D0=BE=
+=D0=BC=D1=83&nbsp;<code>courseId</code>).</p></li>
+<li local-id=3D"599e3c24-5271-41be-b293-977fcd6d0bb7">
+<p local-id=3D"3d79eaaa8d74">=D0=92=D1=8B=D0=BF=D0=BE=D0=BB=D0=BD=D0=B8=D1=
+=82=D1=8C&nbsp;<code>INNER JOIN</code>&nbsp;=D1=81 =D1=82=D0=B0=D0=B1=D0=BB=
+=D0=B8=D1=86=D0=B5=D0=B9&nbsp;<code>module</code>&nbsp;=D0=BF=D0=BE&nbsp;<c=
+ode>lesson.module_id =3D module.id</code>.</p></li>
+<li local-id=3D"63adc590-882a-45ab-bf5b-d4b556374cb0">
+<p local-id=3D"d8aa51294bf1">=D0=9E=D1=82=D1=81=D0=BE=D1=80=D1=82=D0=B8=D1=
+=80=D0=BE=D0=B2=D0=B0=D1=82=D1=8C =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=
+=82=D0=B0=D1=82=D1=8B:</p>
+<ul local-id=3D"e3f8eb29-ff8c-4a0f-a390-36a7ca12dc22">
+<li local-id=3D"21abd24e-8de4-46c9-b7b5-745496010218">
+<p local-id=3D"5a0754e1db49">=D1=81=D0=BD=D0=B0=D1=87=D0=B0=D0=BB=D0=B0 =D0=
+=BF=D0=BE&nbsp;<code>module.sort_order</code>&nbsp;(=D0=BF=D0=BE =D0=B2=D0=
+=BE=D0=B7=D1=80=D0=B0=D1=81=D1=82=D0=B0=D0=BD=D0=B8=D1=8E),</p></li>
+<li local-id=3D"889c6b1f-2986-438e-949f-6722e68694e0">
+<p local-id=3D"1fac6db56910">=D0=B7=D0=B0=D1=82=D0=B5=D0=BC =D0=BF=D0=BE&nb=
+sp;<code>lesson.lesson_date</code>&nbsp;(=D0=BF=D0=BE =D0=B2=D0=BE=D0=B7=D1=
+=80=D0=B0=D1=81=D1=82=D0=B0=D0=BD=D0=B8=D1=8E),</p></li>
+<li local-id=3D"e9246f39-9485-4fd3-9657-27cbb90787dc">
+<p local-id=3D"333b0fc621a0">=D0=B7=D0=B0=D1=82=D0=B5=D0=BC =D0=BF=D0=BE&nb=
+sp;<code>lesson.lesson_time</code>&nbsp;(=D0=BF=D0=BE =D0=B2=D0=BE=D0=B7=D1=
+=80=D0=B0=D1=81=D1=82=D0=B0=D0=BD=D0=B8=D1=8E).</p></li>
+</ul></li>
+<li local-id=3D"1c61c31e-f8c3-4b48-b665-9ddda7ae83ed">
+<p local-id=3D"40a4a1d07020">=D0=9F=D1=80=D0=B8=D0=BC=D0=B5=D0=BD=D0=B8=D1=
+=82=D1=8C =D0=BF=D0=B0=D0=B3=D0=B8=D0=BD=D0=B0=D1=86=D0=B8=D1=8E: =D0=B2=D0=
+=B7=D1=8F=D1=82=D1=8C =D1=81=D1=80=D0=B5=D0=B7 =D1=80=D0=B5=D0=B7=D1=83=D0=
+=BB=D1=8C=D1=82=D0=B0=D1=82=D0=BE=D0=B2, =D0=BD=D0=B0=D1=87=D0=B8=D0=BD=D0=
+=B0=D1=8F =D1=81&nbsp;<code>(page - 1) * limit</code>, =D0=BA=D0=BE=D0=BB=
+=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE=D0=BC&nbsp;<code>limit</code>&nb=
+sp;=D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B5=D0=B9.</p></li>
+<li local-id=3D"073c1eb9-ae97-420e-af34-7aab4a4e9727">
+<p local-id=3D"43de953a9f5b">=D0=94=D0=BB=D1=8F =D0=BA=D0=B0=D0=B6=D0=B4=D0=
+=BE=D0=B3=D0=BE =D1=83=D1=80=D0=BE=D0=BA=D0=B0 =D0=BE=D0=BF=D1=80=D0=B5=D0=
+=B4=D0=B5=D0=BB=D0=B8=D1=82=D1=8C =D0=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D0=
+=B5 =D1=82=D0=B5=D1=81=D1=82=D0=B0 =D0=B8 =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=
+=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F:</p>
+<ul local-id=3D"d8b79435-ab62-4e9d-a06f-a1320afd7203">
+<li local-id=3D"2c13f8a6-03af-4cf6-be6e-56ba13a4fdd7">
+<p local-id=3D"32bc5facd999"><code>hasTest</code>&nbsp;=3D&nbsp;<code>true<=
+/code>, =D0=B5=D1=81=D0=BB=D0=B8 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=
+=D1=83=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D1=82=D0=B0=
+=D0=B1=D0=BB=D0=B8=D1=86=D0=B5&nbsp;<code>teacher_homework</code>&nbsp;=D1=
+=81&nbsp;<code>lesson_id</code>&nbsp;=3D&nbsp;<code>lesson.id</code>&nbsp;=
+=D0=B8&nbsp;<code>type</code>&nbsp;=3D&nbsp;<code>'test'</code>.</p></li>
+<li local-id=3D"c5eecdd7-b519-4e39-b3e6-6e0db550d62f">
+<p local-id=3D"c1573b0dd44d"><code>hasHomework</code>&nbsp;=3D&nbsp;<code>t=
+rue</code>, =D0=B5=D1=81=D0=BB=D0=B8 =D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=
+=D0=B2=D1=83=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D1=82=
+=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B5&nbsp;<code>teacher_homework</code>&nbs=
+p;=D1=81&nbsp;<code>lesson_id</code>&nbsp;=3D&nbsp;<code>lesson.id</code>&n=
+bsp;=D0=B8&nbsp;<code>type</code>&nbsp;=3D&nbsp;<code>'homework'</code>.</p=
+></li>
+</ul></li>
+</ul></li>
+<li local-id=3D"a5abd569-0df9-4757-8dfc-14debccaa725">
+<p local-id=3D"eb514afcd7c7">=D0=9F=D0=BE=D0=B4=D1=81=D1=87=D0=B8=D1=82=D0=
+=B0=D1=82=D1=8C =D0=BE=D0=B1=D1=89=D0=B5=D0=B5 =D0=BA=D0=BE=D0=BB=D0=B8=D1=
+=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=
+=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B5 (=D0=B4=D0=BB=D1=8F =D0=B7=D0=BD=D0=B0=
+=D1=87=D0=B5=D0=BD=D0=B8=D1=8F&nbsp;<code>count</code>).</p></li>
+<li local-id=3D"b6671bc8-afe7-4b82-9c34-2a69841bdf58">
+<p local-id=3D"02b75445612e">=D0=A1=D1=84=D0=BE=D1=80=D0=BC=D0=B8=D1=80=D0=
+=BE=D0=B2=D0=B0=D1=82=D1=8C =D0=BE=D1=82=D0=B2=D0=B5=D1=82:</p>
+<ul local-id=3D"b6f7bf9d-958e-4453-8e5d-c6c93a256e60">
+<li local-id=3D"3c8a5bc4-3957-4e9f-9dd4-f42367c37586">
+<p local-id=3D"620a186d4ce5"><code>page</code>&nbsp;=E2=80=93 =D1=82=D0=B5=
+=D0=BA=D1=83=D1=89=D0=B0=D1=8F =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=
+=D0=B0,</p></li>
+<li local-id=3D"5b6f97ca-3477-4b6d-87ab-e1950ee82ec9">
+<p local-id=3D"78c98b6f4db8"><code>limit</code>&nbsp;=E2=80=93 =D0=BA=D0=BE=
+=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D0=B7=D0=B0=D0=BF=D0=B8=
+=D1=81=D0=B5=D0=B9 =D0=BD=D0=B0 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=
+=D1=83,</p></li>
+<li local-id=3D"0d5a8d5b-7a56-4fe9-9a3d-e1c2bde011b2">
+<p local-id=3D"d005aaed878c"><code>count</code>&nbsp;=E2=80=93 =D0=BE=D0=B1=
+=D1=89=D0=B5=D0=B5 =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=
+=D0=BE =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=B2 =D0=BA=D1=83=D1=80=D1=81=
+=D0=B5,</p></li>
+<li local-id=3D"a28ee2f9-0039-4ce5-b5e0-d4031bc0eb9d">
+<p local-id=3D"d414d8899900"><code>lessons</code>&nbsp;=E2=80=93 =D0=BC=D0=
+=B0=D1=81=D1=81=D0=B8=D0=B2 =D0=BE=D0=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=
+=B2 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D1=81 =D0=BF=D0=BE=D0=BB=D1=8F=D0=
+=BC=D0=B8:</p>
+<ul local-id=3D"e006bc23-2ce8-402a-9d5b-359578b84734">
+<li local-id=3D"b45edb5a-f777-4838-812e-8d5ce31f6355">
+<p local-id=3D"6a8b1c255165"><code>id</code>&nbsp;=E2=80=93&nbsp;<code>less=
+on.id</code>,</p></li>
+<li local-id=3D"5b335e9f-5f7e-47a3-860f-000c7f19d64b">
+<p local-id=3D"7b5d8db65744"><code>name</code>&nbsp;=E2=80=93&nbsp;<code>le=
+sson.name</code>,</p></li>
+<li local-id=3D"361667f6-4404-4d18-83a9-e990d9b0d829">
+<p local-id=3D"d81d4be5df49"><code>description</code>&nbsp;=E2=80=93&nbsp;<=
+code>lesson.description</code>,</p></li>
+<li local-id=3D"534ffcf9-5104-411c-b773-600d0bd1e926">
+<p local-id=3D"7f0e53e02825"><code>moduleId</code>&nbsp;=E2=80=93&nbsp;<cod=
+e>module.id</code>,</p></li>
+<li local-id=3D"313acaaa-e11b-4544-888e-504274c0109e">
+<p local-id=3D"b125fd3e8d57"><code>moduleName</code>&nbsp;=E2=80=93&nbsp;<c=
+ode>module.name</code>,</p></li>
+<li local-id=3D"17336c94-18ef-4a22-aa12-597e249c149e">
+<p local-id=3D"a6a601ee0dd3"><code>moduleSortOrder</code>&nbsp;=E2=80=93&nb=
+sp;<code>module.sort_order</code>,</p></li>
+<li local-id=3D"2696c392-efe2-4118-9322-25e3c5969aad">
+<p local-id=3D"056150111044"><code>lessonType</code>&nbsp;=E2=80=93&nbsp;<c=
+ode>lesson.lesson_type</code>,</p></li>
+<li local-id=3D"8a6ee994-cd94-4f6b-ba90-4a232e4c1df3">
+<p local-id=3D"74d4d668aa51"><code>lessonDate</code>&nbsp;=E2=80=93&nbsp;<c=
+ode>lesson.lesson_date</code>,</p></li>
+<li local-id=3D"1677c457-cb52-4597-ac1e-0c9212013594">
+<p local-id=3D"6e567853b86a"><code>lessonTime</code>&nbsp;=E2=80=93&nbsp;<c=
+ode>lesson.lesson_time</code>,</p></li>
+<li local-id=3D"cd3714d8-8fdb-4cab-b02c-05e30e4381c6">
+<p local-id=3D"585df0367e81"><code>roomLink</code>&nbsp;=E2=80=93&nbsp;<cod=
+e>lesson.room_link</code>,</p></li>
+<li local-id=3D"24fd9b26-fc1e-46b9-addd-4997b669e148">
+<p local-id=3D"b42b5b1960b1"><code>recordingLink</code>&nbsp;=E2=80=93&nbsp=
+;<code>lesson.recording_link</code>,</p></li>
+<li local-id=3D"92c9f15a-8c1a-42cf-8aec-52f85acc3f8f">
+<p local-id=3D"1f0b5a8b53e6"><code>duration</code>&nbsp;=E2=80=93&nbsp;<cod=
+e>lesson.duration</code>,</p></li>
+<li local-id=3D"7d53176d-c5ee-4af6-a1d4-a1e559141e48">
+<p local-id=3D"dd64d3f3caea"><code>hasTest</code>&nbsp;=E2=80=93 =D0=B2=D1=
+=8B=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE&nbsp=
+;<code>teacher_homework</code>,</p></li>
+<li local-id=3D"ff039d42-d149-439d-b7d7-af7678e70cdf">
+<p local-id=3D"ebf30e0b808e"><code>hasHomework</code>&nbsp;=E2=80=93 =D0=B2=
+=D1=8B=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=B5=D1=82=D1=81=D1=8F =D0=BF=D0=BE&n=
+bsp;<code>teacher_homework</code>,</p></li>
+<li local-id=3D"4c531613-577d-43d3-aeae-6128ef0a3eda">
+<p local-id=3D"e0fd79575a0d"><code>createdAt</code>&nbsp;=E2=80=93&nbsp;<co=
+de>lesson.created_at</code>.</p></li>
+</ul></li>
+</ul></li>
+<li local-id=3D"e300010c-ebe1-4a78-b1db-39937f886929">
+<p local-id=3D"d58d30762aff">=D0=92=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D1=
+=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82 =D0=BF=D0=BE=D0=BB=D1=
+=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =D1=81 =D0=BA=D0=BE=D0=
+=B4=D0=BE=D0=BC HTTP-200.</p></li>
+</ol>
+<h3 local-id=3D"27467ecb3176" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=
+=82=D0=BA=D0=B0=D0=B8=D1=81=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D0=B5=D0=BB=
+=D1=8C=D0=BD=D1=8B=D1=85=D1=81=D0=B8=D1=82=D1=83=D0=B0=D1=86=D0=B8=D0=B9:">=
+=D0=9E=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B0 =D0=B8=D1=81=D0=BA=
+=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D1=8B=D1=85 =D1=81=
+=D0=B8=D1=82=D1=83=D0=B0=D1=86=D0=B8=D0=B9:</h3>
+<ol start=3D"1" local-id=3D"70122f57-09c7-4170-a5f9-7c79a1840343">
+<li local-id=3D"38307ee4-2298-437a-83d1-01b8a8b33887">
+<p local-id=3D"8d5c1e33ecec"><strong>=D0=9F=D1=83=D1=81=D1=82=D0=BE=D0=B9 =
+=D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82.</strong><br>
+=D0=95=D1=81=D0=BB=D0=B8 =D1=83 =D0=BA=D1=83=D1=80=D1=81=D0=B0 =D0=BD=D0=B5=
+=D1=82 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=B8=D0=BB=D0=B8 =D0=B7=D0=B0=
+=D0=BF=D1=80=D0=BE=D1=88=D0=B5=D0=BD=D0=BD=D0=B0=D1=8F =D1=81=D1=82=D1=80=
+=D0=B0=D0=BD=D0=B8=D1=86=D0=B0 =D0=B2=D1=8B=D1=85=D0=BE=D0=B4=D0=B8=D1=82 =
+=D0=B7=D0=B0 =D0=BF=D1=80=D0=B5=D0=B4=D0=B5=D0=BB=D1=8B =D0=BE=D0=B1=D1=89=
+=D0=B5=D0=B3=D0=BE =D0=BA=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=
+=D0=B0 =E2=80=93 =D0=B2=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =D0=BF=D1=83=D1=
+=81=D1=82=D0=BE=D0=B9 =D0=BC=D0=B0=D1=81=D1=81=D0=B8=D0=B2&nbsp;<code>lesso=
+ns</code>&nbsp;=D0=B8&nbsp;<code>count =3D 0</code>&nbsp;=D1=81 =D0=BA=D0=
+=BE=D0=B4=D0=BE=D0=BC HTTP-200.</p></li>
+<li local-id=3D"9723bc42-4a71-419b-ae24-b3ae1530d160">
+<p local-id=3D"f11b2a4bfdde"><strong>=D0=9F=D1=80=D0=BE=D0=B1=D0=BB=D0=B5=
+=D0=BC=D1=8B =D1=81 =D0=BF=D0=B0=D0=B3=D0=B8=D0=BD=D0=B0=D1=86=D0=B8=D0=B5=
+=D0=B9 =D0=BF=D1=80=D0=B8 =D0=B4=D0=BE=D0=B1=D0=B0=D0=B2=D0=BB=D0=B5=D0=BD=
+=D0=B8=D0=B8 =D0=BD=D0=BE=D0=B2=D1=8B=D1=85 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=
+=D0=B2.</strong><br>
+=D0=95=D1=81=D0=BB=D0=B8 =D0=B2 =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81=
+=D0=B5 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0 =D1=81=D0=BF=D0=B8=D1=81=
+=D0=BA=D0=B0 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2 =D0=BF=D1=80=D0=B5=D0=BF=
+=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8C =D0=B4=D0=BE=D0=B1=
+=D0=B0=D0=B2=D0=B8=D1=82 =D0=BD=D0=BE=D0=B2=D1=8B=D0=B5 =D1=83=D1=80=D0=BE=
+=D0=BA=D0=B8 =D0=B2 =D0=BA=D1=83=D1=80=D1=81, =D1=82=D0=BE =D0=BC=D0=BE=D0=
+=B3=D1=83=D1=82 =D0=B1=D1=8B=D1=82=D1=8C =D1=81=D0=B8=D1=82=D1=83=D0=B0=D1=
+=86=D0=B8=D0=B8 =D1=81 =D0=BD=D0=B5=D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=
+=82=D0=BD=D1=8B=D0=BC =D0=B2=D0=BE=D0=B7=D0=B2=D1=80=D0=B0=D1=82=D0=BE=D0=
+=BC =D1=80=D0=B5=D0=B7=D1=83=D0=BB=D1=8C=D1=82=D0=B0=D1=82=D0=BE=D0=B2 =D0=
+=BF=D0=BE =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D0=B0=D0=BC =E2=80=93 =
+=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D0=B5 =D0=BD=D0=B0 =D1=81=D1=82=D1=80=D0=B0=
+=D0=BD=D0=B8=D1=86=D0=B0=D1=85 =D0=B1=D1=83=D0=B4=D1=83=D1=82 =D1=81=D0=BC=
+=D0=B5=D1=89=D0=B5=D0=BD=D1=8B. =D0=A1=D1=87=D0=B8=D1=82=D0=B0=D1=82=D1=8C =
+=D1=82=D0=B0=D0=BA=D0=BE=D0=B5 =D0=BF=D0=BE=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=
+=D0=B8=D0=B5 =D0=BA=D0=BE=D1=80=D1=80=D0=B5=D0=BA=D1=82=D0=BD=D1=8B=D0=BC.<=
+/p></li>
+<li local-id=3D"b2b05145-8456-4801-9e67-ac8f9649a115">
+<p local-id=3D"77fa5a7e50c5"><strong>=D0=92=D0=BD=D1=83=D1=82=D1=80=D0=B5=
+=D0=BD=D0=BD=D1=8F=D1=8F =D0=BE=D1=88=D0=B8=D0=B1=D0=BA=D0=B0.</strong><br>
+=D0=92 =D0=BF=D1=80=D0=BE=D1=86=D0=B5=D1=81=D1=81=D0=B5 =D1=80=D0=B0=D0=B1=
+=D0=BE=D1=82=D1=8B =D0=B0=D0=BB=D0=B3=D0=BE=D1=80=D0=B8=D1=82=D0=BC=D0=B0 =
+=D0=BD=D0=B5 =D1=83=D0=B4=D0=B0=D1=91=D1=82=D1=81=D1=8F =D0=BF=D0=BE=D0=B4=
+=D0=BA=D0=BB=D1=8E=D1=87=D0=B8=D1=82=D1=8C=D1=81=D1=8F =D0=BA =D0=91=D0=94 =
+=D0=B8=D0=BB=D0=B8 =D0=BF=D1=80=D0=BE=D0=B8=D1=81=D1=85=D0=BE=D0=B4=D0=B8=
+=D1=82 =D0=B2=D0=BD=D1=83=D1=82=D1=80=D0=B5=D0=BD=D0=BD=D1=8F=D1=8F =D0=BE=
+=D1=88=D0=B8=D0=B1=D0=BA=D0=B0. =D0=92=D0=B5=D1=80=D0=BD=D1=83=D1=82=D1=8C =
+=D0=BF=D0=BE=D0=BB=D1=8C=D0=B7=D0=BE=D0=B2=D0=B0=D1=82=D0=B5=D0=BB=D1=8E =
+=D0=BA=D0=BE=D0=B4 HTTP-503 =D1=81 =D1=82=D0=B5=D0=BA=D1=81=D1=82=D0=BE=D0=
+=BC:&nbsp;<code>"=D0=A1=D0=B5=D1=80=D0=B2=D0=B8=D1=81 =D0=B2=D1=80=D0=B5=D0=
+=BC=D0=B5=D0=BD=D0=BD=D0=BE =D0=BD=D0=B5=D0=B4=D0=BE=D1=81=D1=82=D1=83=D0=
+=BF=D0=B5=D0=BD"</code>.</p></li>
+</ol>
+<h2 local-id=3D"26d224a8c00c" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=9C=D0=B0=D0=BF=D0=BF=D0=B8=D0=BD=D0=
+=B3=D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=D1=85."><br>
+=D0=9C=D0=B0=D0=BF=D0=BF=D0=B8=D0=BD=D0=B3 =D0=B4=D0=B0=D0=BD=D0=BD=D1=8B=
+=D1=85.</h2>
+<p local-id=3D"df8c1d7d0642"><strong>=D0=94=D0=BB=D1=8F =D1=82=D0=B5=D0=BB=
+=D0=B0 =D0=B7=D0=B0=D0=BF=D1=80=D0=BE=D1=81=D0=B0:</strong></p>
+<p local-id=3D"90e6af4524c5">=D0=9D=D0=B5=D1=82.</p>
+<h3 local-id=3D"545344c3bb8e" id=3D"id-[AK]=D0=9F=D1=80=D0=BE=D1=81=D0=BC=
+=D0=BE=D1=82=D1=80=D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=B2=D0=BA=D1=83=D1=80=D1=
+=81=D0=B0=D0=BF=D1=80=D0=B5=D0=BF=D0=BE=D0=B4=D0=B0=D0=B2=D0=B0=D1=82=D0=B5=
+=D0=BB=D0=B5=D0=BC[GEThttps://u-verse.ru/api/private/v1.0/courses/{courseId=
+}/lessons?page=3D1&amp;limit=3D20]-=D0=94=D0=BB=D1=8F=D1=82=D0=B5=D0=BB=D0=
+=B0=D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0:">=D0=94=D0=BB=D1=8F =D1=82=D0=B5=
+=D0=BB=D0=B0 =D0=BE=D1=82=D0=B2=D0=B5=D1=82=D0=B0:</h3>
+<div class=3D"table-wrap">
+<table data-table-width=3D"947" data-layout=3D"center" data-local-id=3D"3f5=
+5c535-d179-4529-9c4c-c42f97d4ca67" data-table-display-mode=3D"default" clas=
+s=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 197.0px;">
+<col style=3D"width: 274.0px;">
+<col style=3D"width: 61.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 328.0px;">
+</colgroup>
+<tbody>
+<tr data-local-id=3D"4c8f920d62aa">
+<th data-highlight-colour=3D"#f0f1f2" data-local-id=3D"72a5d82d-38ce-4e70-8=
+fb3-c502378c2900" class=3D"confluenceTh">
+<p local-id=3D"f9b99584ab0a"><strong>=D0=9F=D0=B0=D1=80=D0=B0=D0=BC=D0=B5=
+=D1=82=D1=80 =D0=B2 JSON</strong></p></th>
+<th data-highlight-colour=3D"#f0f1f2" data-local-id=3D"feba8e89-1c4e-4695-8=
+3cb-3f95c708ad68" class=3D"confluenceTh">
+<p local-id=3D"a1fa8634c8d9"><strong>=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=
+=D0=B8=D0=B5 / =D0=BA=D0=BE=D0=BC=D0=BC=D0=B5=D0=BD=D1=82=D0=B0=D1=80=D0=B8=
+=D0=B9, =D1=82=D1=80=D0=B5=D0=B1=D0=BE=D0=B2=D0=B0=D0=BD=D0=B8=D1=8F =D0=BA=
+ =D0=BF=D1=80=D0=B5=D0=BE=D0=B1=D1=80=D0=B0=D0=B7=D0=BE=D0=B2=D0=B0=D0=BD=
+=D0=B8=D1=8E =D0=BF=D0=BE=D1=81=D0=BB=D0=B5 =D0=B8=D0=B7=D0=B2=D0=BB=D0=B5=
+=D1=87=D0=B5=D0=BD=D0=B8=D1=8F =D0=B8=D0=B7 =D0=91=D0=94 =D0=B8=D0=BB=D0=B8=
+ =D0=BE=D0=B1=D1=80=D0=B0=D0=B1=D0=BE=D1=82=D0=BA=D0=B8</strong></p></th>
+<th data-highlight-colour=3D"#f0f1f2" data-local-id=3D"b892dc4e-3f3a-4aef-b=
+e06-f645e4017657" class=3D"confluenceTh">
+<p local-id=3D"aaf27c9c8de1"><strong>=D0=9E=D0=B1=D1=8F=D0=B7.</strong></p>=
+</th>
+<th data-highlight-colour=3D"#f0f1f2" data-local-id=3D"ab593581-ee2b-498b-9=
+88f-67b4000bfff5" class=3D"confluenceTh">
+<p local-id=3D"19a401bba96a"><strong>=D0=A2=D0=B8=D0=BF =D0=B4=D0=B0=D0=BD=
+=D0=BD=D1=8B=D1=85</strong></p></th>
+<th data-highlight-colour=3D"#f0f1f2" data-local-id=3D"b9e0bc09-a9b1-4562-b=
+e22-e20895aa4352" class=3D"confluenceTh">
+<p local-id=3D"ba7371f49e5e"><strong>=D0=92 =D0=91=D0=94</strong></p></th>
+</tr>
+<tr data-local-id=3D"f4f2cee65c8e">
+<td data-local-id=3D"8021fc16-fbe0-43e4-9b57-cdefcf67ee6d" class=3D"conflue=
+nceTd">
+<p local-id=3D"e0ea658c986d">page</p></td>
+<td data-local-id=3D"bb9b70d1-d870-4cdd-a5ac-08bb6a1f506f" class=3D"conflue=
+nceTd">
+<p local-id=3D"295168802e6b">=D0=A2=D0=B5=D0=BA=D1=83=D1=89=D0=B8=D0=B9 =D0=
+=BD=D0=BE=D0=BC=D0=B5=D1=80 =D1=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=
+=8B.</p></td>
+<td data-local-id=3D"751db197-25d7-442f-a55d-f5d5de7e81bb" class=3D"conflue=
+nceTd">
+<p local-id=3D"b7c708bfeb69">+</p></td>
+<td data-local-id=3D"4e6074cc-4f9d-47fc-bb2f-3c26400c886a" class=3D"conflue=
+nceTd">
+<p local-id=3D"b63ed1b1fddb">integer</p></td>
+<td data-local-id=3D"87a448c2-6ce5-42c6-9524-be400a890571" class=3D"conflue=
+nceTd">
+<p local-id=3D"92d46cb4cc05">-</p></td>
+</tr>
+<tr data-local-id=3D"237932d3d2ce">
+<td data-local-id=3D"47f2f237-fd94-4f42-bbf2-68cdb0cfc878" class=3D"conflue=
+nceTd">
+<p local-id=3D"7d8ee2987ba3">limit</p></td>
+<td data-local-id=3D"905ecc5d-9616-44a5-998c-c9fa8555e463" class=3D"conflue=
+nceTd">
+<p local-id=3D"274bc8f9f9c3">=D0=9A=D0=BE=D0=BB=D0=B8=D1=87=D0=B5=D1=81=D1=
+=82=D0=B2=D0=BE =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D0=B5=D0=B9 =D0=BD=D0=B0 =D1=
+=81=D1=82=D1=80=D0=B0=D0=BD=D0=B8=D1=86=D1=83.</p></td>
+<td data-local-id=3D"251c7fc6-b56d-4e40-b9d0-41157e8dd2f5" class=3D"conflue=
+nceTd">
+<p local-id=3D"fd9967209cdf">+</p></td>
+<td data-local-id=3D"d8b197e0-0556-43a9-bc68-2aaa03c7f06f" class=3D"conflue=
+nceTd">
+<p local-id=3D"a8b23d3b6e94">integer</p></td>
+<td data-local-id=3D"e5eb4bf7-ec07-4d62-af4f-0ce52af4c749" class=3D"conflue=
+nceTd">
+<p local-id=3D"263b1dfd1055">-</p></td>
+</tr>
+<tr data-local-id=3D"3ae98196cf36">
+<td data-local-id=3D"872c5603-faf6-4c85-96d2-9939af8db297" class=3D"conflue=
+nceTd">
+<p local-id=3D"bb42999aaa68">count</p></td>
+<td data-local-id=3D"9624aeee-7ea3-48c5-a626-3097825d9dce" class=3D"conflue=
+nceTd">
+<p local-id=3D"816a4212c6f5">=D0=9E=D0=B1=D1=89=D0=B5=D0=B5 =D0=BA=D0=BE=D0=
+=BB=D0=B8=D1=87=D0=B5=D1=81=D1=82=D0=B2=D0=BE =D1=83=D1=80=D0=BE=D0=BA=D0=
+=BE=D0=B2 =D0=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B5.</p></td>
+<td data-local-id=3D"d240bc93-e339-4ac4-acd2-424ac7cf8ce4" class=3D"conflue=
+nceTd">
+<p local-id=3D"50c995312b96">+</p></td>
+<td data-local-id=3D"b36a48e9-9145-4109-906e-23f7cf09f883" class=3D"conflue=
+nceTd">
+<p local-id=3D"3c3ead69580b">integer</p></td>
+<td data-local-id=3D"bccb32f8-25ab-4e41-a0f9-7954fd3a7997" class=3D"conflue=
+nceTd">
+<p local-id=3D"bceef570da5d">-</p></td>
+</tr>
+<tr data-local-id=3D"ceef80edfeb6">
+<td data-local-id=3D"41e57b33-f0d3-4d21-b1b5-f5626f1f2a6c" class=3D"conflue=
+nceTd">
+<p local-id=3D"e770cebfc022">lessons</p></td>
+<td data-local-id=3D"d642ce07-5422-4ce4-bced-f167fd53e37e" class=3D"conflue=
+nceTd">
+<p local-id=3D"76b0bb24b48c">=D0=9C=D0=B0=D1=81=D1=81=D0=B8=D0=B2 =D0=BE=D0=
+=B1=D1=8A=D0=B5=D0=BA=D1=82=D0=BE=D0=B2 =D1=83=D1=80=D0=BE=D0=BA=D0=BE=D0=
+=B2.</p></td>
+<td data-local-id=3D"774f0238-cd1e-4cce-a5d8-1bc9f6967dc7" class=3D"conflue=
+nceTd">
+<p local-id=3D"89ffd4c5910f">+</p></td>
+<td data-local-id=3D"f30c24e1-1979-4c76-8573-510065227ac2" class=3D"conflue=
+nceTd">
+<p local-id=3D"aa1cd67d7da1">ARRAY</p></td>
+<td data-local-id=3D"da76c282-180c-42e9-8f90-e6f5038523f9" class=3D"conflue=
+nceTd">
+<p local-id=3D"7148a1ea9e2e">-</p></td>
+</tr>
+<tr data-local-id=3D"100f0215807c">
+<td data-local-id=3D"30588f25-51a8-437c-a4fe-ea5b23e2d33f" class=3D"conflue=
+nceTd">
+<p local-id=3D"a5ebb860c687">lessons[].id</p></td>
+<td data-local-id=3D"9527a488-27f1-4cbd-8242-0aa70d5877f4" class=3D"conflue=
+nceTd">
+<p local-id=3D"1680a7d8cfd2">=D0=A3=D0=BD=D0=B8=D0=BA=D0=B0=D0=BB=D1=8C=D0=
+=BD=D1=8B=D0=B9 =D0=B8=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=B8=D0=BA=D0=
+=B0=D1=82=D0=BE=D1=80 =D1=83=D1=80=D0=BE=D0=BA=D0=B0.</p></td>
+<td data-local-id=3D"4ea316dd-bdb7-484a-b043-9f1b8aebbcde" class=3D"conflue=
+nceTd">
+<p local-id=3D"136d3f2e6069">+</p></td>
+<td data-local-id=3D"31efe2c1-95ab-4b23-ab46-093c983c758b" class=3D"conflue=
+nceTd">
+<p local-id=3D"de6dd64fd518">string (UUID)</p></td>
+<td data-local-id=3D"9ca59166-9593-407d-b840-bd6745353d37" class=3D"conflue=
+nceTd">
+<p local-id=3D"53edc4c53954"><code>lesson.id</code></p></td>
+</tr>
+<tr data-local-id=3D"82b2853bb807">
+<td data-local-id=3D"073208d3-cf41-4903-a27b-117eaf66bfe0" class=3D"conflue=
+nceTd">
+<p local-id=3D"d56848d2bdfc">lessons[].name</p></td>
+<td data-local-id=3D"c4b857f5-2982-4a0e-a70a-861de613370e" class=3D"conflue=
+nceTd">
+<p local-id=3D"6685167c9746">=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=83=D1=80=D0=BE=D0=BA=D0=B0.</p></td>
+<td data-local-id=3D"497a8574-87a2-4795-909e-4e2636453d60" class=3D"conflue=
+nceTd">
+<p local-id=3D"1acb20e57b30">+</p></td>
+<td data-local-id=3D"a59ef97f-23f8-4190-bc2d-4212806276ff" class=3D"conflue=
+nceTd">
+<p local-id=3D"8e4ffa58a014">string</p></td>
+<td data-local-id=3D"4232b637-cc9d-4a7e-b6f4-9764aca5865a" class=3D"conflue=
+nceTd">
+<p local-id=3D"d0f2df008d99"><code>lesson.name</code></p></td>
+</tr>
+<tr data-local-id=3D"d249ef369bf5">
+<td data-local-id=3D"3195c7f4-5017-4fd2-b0e0-b465988e48ea" class=3D"conflue=
+nceTd">
+<p local-id=3D"a4a1216f5b5a">lessons[].description</p></td>
+<td data-local-id=3D"6f93929f-874c-407e-a092-a97393756367" class=3D"conflue=
+nceTd">
+<p local-id=3D"4792b6824723">=D0=9E=D0=BF=D0=B8=D1=81=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D1=83=D1=80=D0=BE=D0=BA=D0=B0.</p></td>
+<td data-local-id=3D"566ce24c-d512-4a8c-a724-fb8ca3418fab" class=3D"conflue=
+nceTd">
+<p local-id=3D"18010319cb6b">-</p></td>
+<td data-local-id=3D"07f00b4f-88ba-49fb-bb54-a7d5fd0e4ae5" class=3D"conflue=
+nceTd">
+<p local-id=3D"4f5955a76028">string</p></td>
+<td data-local-id=3D"ae6c25ec-cf6f-4972-b627-2f028c376c77" class=3D"conflue=
+nceTd">
+<p local-id=3D"f61936058769"><code>lesson.description</code></p></td>
+</tr>
+<tr data-local-id=3D"7e548542b21b">
+<td data-local-id=3D"9389e375-05a9-4817-9f69-11e42eea51b4" class=3D"conflue=
+nceTd">
+<p local-id=3D"c104d1d22bc3">lessons[].moduleId</p></td>
+<td data-local-id=3D"e78440c3-28fd-42e3-958a-941eea51fb0a" class=3D"conflue=
+nceTd">
+<p local-id=3D"35ad010b779a">=D0=98=D0=B4=D0=B5=D0=BD=D1=82=D0=B8=D1=84=D0=
+=B8=D0=BA=D0=B0=D1=82=D0=BE=D1=80 =D0=BC=D0=BE=D0=B4=D1=83=D0=BB=D1=8F, =D0=
+=BA =D0=BA=D0=BE=D1=82=D0=BE=D1=80=D0=BE=D0=BC=D1=83 =D0=BF=D1=80=D0=B8=D0=
+=BD=D0=B0=D0=B4=D0=BB=D0=B5=D0=B6=D0=B8=D1=82 =D1=83=D1=80=D0=BE=D0=BA.</p>=
+</td>
+<td data-local-id=3D"531c8c6b-c80d-42db-a4d9-20e85a162d35" class=3D"conflue=
+nceTd">
+<p local-id=3D"f0c6da5a9829">+</p></td>
+<td data-local-id=3D"9fda01ca-b0bd-496c-9a54-e832755459c2" class=3D"conflue=
+nceTd">
+<p local-id=3D"db456da36474">string (UUID)</p></td>
+<td data-local-id=3D"ef54bcda-49cd-4784-a0cd-c89ce97ad431" class=3D"conflue=
+nceTd">
+<p local-id=3D"81631ec66442"><code>module.id</code></p></td>
+</tr>
+<tr data-local-id=3D"ff0468765a73">
+<td data-local-id=3D"d81a6bdd-f338-4c8c-96cd-6cb48632cd8b" class=3D"conflue=
+nceTd">
+<p local-id=3D"083c848eac5d">lessons[].moduleName</p></td>
+<td data-local-id=3D"079f9c3b-506a-4af8-b222-9a29c1c39529" class=3D"conflue=
+nceTd">
+<p local-id=3D"12d0d03f2b07">=D0=9D=D0=B0=D0=B7=D0=B2=D0=B0=D0=BD=D0=B8=D0=
+=B5 =D0=BC=D0=BE=D0=B4=D1=83=D0=BB=D1=8F.</p></td>
+<td data-local-id=3D"3804e951-8016-4351-84fa-d78ec9d354bc" class=3D"conflue=
+nceTd">
+<p local-id=3D"49a9279de4be">+</p></td>
+<td data-local-id=3D"b76abfb8-63c4-4195-adaf-d85909061207" class=3D"conflue=
+nceTd">
+<p local-id=3D"e7a6e130ef48">string</p></td>
+<td data-local-id=3D"a1ab8b6b-8abd-4f95-a7e9-c7b412db7c11" class=3D"conflue=
+nceTd">
+<p local-id=3D"f91fef043d20"><code>module.name</code></p></td>
+</tr>
+<tr data-local-id=3D"5ecc89b16c17">
+<td data-local-id=3D"5f759878-9f69-4729-aa0f-0c64cee958f9" class=3D"conflue=
+nceTd">
+<p local-id=3D"bcc529dab076">lessons[].moduleSortOrder</p></td>
+<td data-local-id=3D"d4a1f977-4ef8-47cd-acf9-6c0620569200" class=3D"conflue=
+nceTd">
+<p local-id=3D"c3fd2028a10f">=D0=9F=D0=BE=D1=80=D1=8F=D0=B4=D0=BA=D0=BE=D0=
+=B2=D1=8B=D0=B9 =D0=BD=D0=BE=D0=BC=D0=B5=D1=80 =D0=BC=D0=BE=D0=B4=D1=83=D0=
+=BB=D1=8F =D0=B2 =D0=BA=D1=83=D1=80=D1=81=D0=B5.</p></td>
+<td data-local-id=3D"c5123265-935b-471d-ad46-ef61bf5afd7c" class=3D"conflue=
+nceTd">
+<p local-id=3D"34ffc7143423">+</p></td>
+<td data-local-id=3D"16ce24dd-cbf0-49d7-9481-3ebb4f10f2d5" class=3D"conflue=
+nceTd">
+<p local-id=3D"872456df47f4">integer</p></td>
+<td data-local-id=3D"df673004-a8f3-4937-8a84-f0250f526d1f" class=3D"conflue=
+nceTd">
+<p local-id=3D"738296969da1"><code>module.sort_order</code></p></td>
+</tr>
+<tr data-local-id=3D"b0df224a2aa1">
+<td data-local-id=3D"23aeeca9-7422-490c-8177-7b59a293e26e" class=3D"conflue=
+nceTd">
+<p local-id=3D"a4c805888fa2">lessons[].lessonType</p></td>
+<td data-local-id=3D"8b438733-1eb0-4157-a7c6-bd96ba2d7186" class=3D"conflue=
+nceTd">
+<p local-id=3D"bc218ec28987">=D0=A2=D0=B8=D0=BF =D1=83=D1=80=D0=BE=D0=BA=D0=
+=B0 (=D0=B2=D0=B8=D0=B4=D0=B5=D0=BE, =D0=B2=D0=B5=D0=B1=D0=B8=D0=BD=D0=B0=
+=D1=80, =D1=82=D0=B5=D0=BA=D1=81=D1=82 =D0=B8 =D1=82.=D0=B4.).</p></td>
+<td data-local-id=3D"8f90c850-c8c7-49ba-abb5-9b6cfc0427ae" class=3D"conflue=
+nceTd">
+<p local-id=3D"567a50dfb5ee">-</p></td>
+<td data-local-id=3D"ff984059-2be5-40a4-a94f-9aef3ff56ad4" class=3D"conflue=
+nceTd">
+<p local-id=3D"d6eff1d8bc3d">string</p></td>
+<td data-local-id=3D"1975cf01-38d6-46c2-97d9-f5730fb698a5" class=3D"conflue=
+nceTd">
+<p local-id=3D"bec6a2ab818a"><code>lesson.lesson_type</code></p></td>
+</tr>
+<tr data-local-id=3D"b61faf49c4f9">
+<td data-local-id=3D"9ced2a03-ef40-49ce-9b3f-7c434d930f43" class=3D"conflue=
+nceTd">
+<p local-id=3D"ef2040cc7424">lessons[].lessonDate</p></td>
+<td data-local-id=3D"39a7dcba-0559-4751-b1a0-bb258ec7bb05" class=3D"conflue=
+nceTd">
+<p local-id=3D"2350141df101">=D0=94=D0=B0=D1=82=D0=B0 =D0=BF=D1=80=D0=BE=D0=
+=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D1=80=D0=BE=D0=BA=D0=B0.</p>=
+</td>
+<td data-local-id=3D"87d60cd1-daf4-4904-a856-1d0c1b7e51fc" class=3D"conflue=
+nceTd">
+<p local-id=3D"33716bb24a1b">-</p></td>
+<td data-local-id=3D"c1a1482b-1236-428b-aa63-f4054f179aff" class=3D"conflue=
+nceTd">
+<p local-id=3D"af8c0f88b44b">date</p></td>
+<td data-local-id=3D"09d23a38-df5a-44a1-8d5a-67116634c5f3" class=3D"conflue=
+nceTd">
+<p local-id=3D"8919a772f600"><code>lesson.lesson_date</code></p></td>
+</tr>
+<tr data-local-id=3D"d576bec8f9d9">
+<td data-local-id=3D"8014ed47-e9cd-46f1-8b41-056288bf8310" class=3D"conflue=
+nceTd">
+<p local-id=3D"db68ca9da7dc">lessons[].lessonTime</p></td>
+<td data-local-id=3D"2173fd0c-a7eb-4719-bf3e-1ad12ae68479" class=3D"conflue=
+nceTd">
+<p local-id=3D"8d249756be0a">=D0=92=D1=80=D0=B5=D0=BC=D1=8F =D0=BF=D1=80=D0=
+=BE=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D1=80=D0=BE=D0=BA=D0=
+=B0.</p></td>
+<td data-local-id=3D"f5245882-06fe-437f-abf5-0b05bb0a5259" class=3D"conflue=
+nceTd">
+<p local-id=3D"2841cdeb281e">-</p></td>
+<td data-local-id=3D"2ee3f70e-55e4-44c6-b43f-2cf3a9c9cb09" class=3D"conflue=
+nceTd">
+<p local-id=3D"6d3dfb971d9c">time</p></td>
+<td data-local-id=3D"5b076c6e-6233-4060-81c6-9a8cc77c0265" class=3D"conflue=
+nceTd">
+<p local-id=3D"6696e18a8c80"><code>lesson.lesson_time</code></p></td>
+</tr>
+<tr data-local-id=3D"6bed812c5808">
+<td data-local-id=3D"5ac2c2c5-6b7d-4c90-b38d-ccfd2cb6d575" class=3D"conflue=
+nceTd">
+<p local-id=3D"9d1376644d5e">lessons[].roomLink</p></td>
+<td data-local-id=3D"3cb02ef4-3916-4052-980d-ee25417ba242" class=3D"conflue=
+nceTd">
+<p local-id=3D"5c83420295d6">=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=
+=B0 =D0=BA=D0=BE=D0=BC=D0=BD=D0=B0=D1=82=D1=83 =D0=B4=D0=BB=D1=8F =D0=BF=D1=
+=80=D0=BE=D0=B2=D0=B5=D0=B4=D0=B5=D0=BD=D0=B8=D1=8F =D1=83=D1=80=D0=BE=D0=
+=BA=D0=B0.</p></td>
+<td data-local-id=3D"8b635717-24d1-43b1-85d5-c8062624042f" class=3D"conflue=
+nceTd">
+<p local-id=3D"ce5e5e98c008">-</p></td>
+<td data-local-id=3D"83dd20e9-4164-43b3-ad14-9b198da7106b" class=3D"conflue=
+nceTd">
+<p local-id=3D"92b280b312a1">string</p></td>
+<td data-local-id=3D"ef6a4be0-962b-4358-aad5-4d01a768cc87" class=3D"conflue=
+nceTd">
+<p local-id=3D"edac08688bc4"><code>lesson.room_link</code></p></td>
+</tr>
+<tr data-local-id=3D"4dbb1711f3c6">
+<td data-local-id=3D"ce27f805-bfd3-4a8e-92c3-38e6302d5a71" class=3D"conflue=
+nceTd">
+<p local-id=3D"9db349ab3471">lessons[].recordingLink</p></td>
+<td data-local-id=3D"403db3d5-8233-4305-b09d-a330c5fe64d3" class=3D"conflue=
+nceTd">
+<p local-id=3D"ca1172daf430">=D0=A1=D1=81=D1=8B=D0=BB=D0=BA=D0=B0 =D0=BD=D0=
+=B0 =D0=B7=D0=B0=D0=BF=D0=B8=D1=81=D1=8C =D1=83=D1=80=D0=BE=D0=BA=D0=B0.</p=
+></td>
+<td data-local-id=3D"d8ba210b-447d-4266-af58-d9d3b4499b3c" class=3D"conflue=
+nceTd">
+<p local-id=3D"d7835e593164">-</p></td>
+<td data-local-id=3D"92021595-2491-4600-a3f6-abcfb9dc7886" class=3D"conflue=
+nceTd">
+<p local-id=3D"0065e39d062d">string</p></td>
+<td data-local-id=3D"9b6086df-69fc-4f52-a5e5-45bb53f9a309" class=3D"conflue=
+nceTd">
+<p local-id=3D"64eead01af18"><code>lesson.recording_link</code></p></td>
+</tr>
+<tr data-local-id=3D"0254534fcdcb">
+<td data-local-id=3D"2e566c1a-4404-4535-8b8e-25663cf69fb0" class=3D"conflue=
+nceTd">
+<p local-id=3D"1290ce8f16ad">lessons[].duration</p></td>
+<td data-local-id=3D"ced4ee70-1f35-4257-974e-a444644fa9fe" class=3D"conflue=
+nceTd">
+<p local-id=3D"bc530f3b1602">=D0=9F=D1=80=D0=BE=D0=B4=D0=BE=D0=BB=D0=B6=D0=
+=B8=D1=82=D0=B5=D0=BB=D1=8C=D0=BD=D0=BE=D1=81=D1=82=D1=8C =D1=83=D1=80=D0=
+=BE=D0=BA=D0=B0 =D0=B2 =D0=BC=D0=B8=D0=BD=D1=83=D1=82=D0=B0=D1=85.</p></td>
+<td data-local-id=3D"55ddf8d2-c782-49b2-8ffc-6ac9152f279e" class=3D"conflue=
+nceTd">
+<p local-id=3D"4ef3ca8f2752">-</p></td>
+<td data-local-id=3D"739e522b-e18c-4c0c-a9e9-341701236891" class=3D"conflue=
+nceTd">
+<p local-id=3D"bc12b5720747">integer</p></td>
+<td data-local-id=3D"642ac8e5-6caa-40d9-95a9-1cb88bd8b806" class=3D"conflue=
+nceTd">
+<p local-id=3D"8cde244c6458"><code>lesson.duration</code></p></td>
+</tr>
+<tr data-local-id=3D"ef977758d82f">
+<td data-local-id=3D"1f8dc638-948e-4e6b-9a42-6a4073519b4a" class=3D"conflue=
+nceTd">
+<p local-id=3D"be59e1b2b5f4">lessons[].hasTest</p></td>
+<td data-local-id=3D"074b1e11-69bd-42c7-b560-5eb3c6b3e8fd" class=3D"conflue=
+nceTd">
+<p local-id=3D"42cc60abc531">=D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=
+=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D1=8F =D1=82=D0=B5=D1=81=D1=82=D0=B0 =D1=
+=83 =D1=83=D1=80=D0=BE=D0=BA=D0=B0. =D0=92=D1=8B=D1=87=D0=B8=D1=81=D0=BB=D1=
+=8F=D0=B5=D1=82=D1=81=D1=8F: <code>true</code>, =D0=B5=D1=81=D0=BB=D0=B8 =
+=D1=81=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=B7=D0=B0=
+=D0=BF=D0=B8=D1=81=D1=8C =D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B5 =
+<code>teacher_homework</code> =D1=81 <code>lesson_id</code> =3D <code>lesso=
+n.id</code> =D0=B8 <code>type</code> =3D <code>'test'</code>.</p></td>
+<td data-local-id=3D"550cc2dd-9b33-4cbd-b2e0-7107534cbcc9" class=3D"conflue=
+nceTd">
+<p local-id=3D"d815ff15733b">+</p></td>
+<td data-local-id=3D"4a7bc02a-2304-4e15-8b57-10d05162b0b1" class=3D"conflue=
+nceTd">
+<p local-id=3D"38f022746f02">boolean</p></td>
+<td data-local-id=3D"474135a3-dede-43b0-80a9-0ad77c674968" class=3D"conflue=
+nceTd">
+<p local-id=3D"2d0982bba3ef">=D0=92=D1=8B=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=
+=B5=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=B5 <co=
+de>teacher_homework</code></p></td>
+</tr>
+<tr data-local-id=3D"c7d36456e8ea">
+<td data-local-id=3D"8019b67b-8332-42b7-8735-a0dd87e3a274" class=3D"conflue=
+nceTd">
+<p local-id=3D"76337c1b1609">lessons[].hasHomework</p></td>
+<td data-local-id=3D"de2808ec-cab8-4da5-b0b2-a80a34afaba7" class=3D"conflue=
+nceTd">
+<p local-id=3D"1d0d339fa15d">=D0=9F=D1=80=D0=B8=D0=B7=D0=BD=D0=B0=D0=BA =D0=
+=BD=D0=B0=D0=BB=D0=B8=D1=87=D0=B8=D1=8F =D0=B4=D0=BE=D0=BC=D0=B0=D1=88=D0=
+=BD=D0=B5=D0=B3=D0=BE =D0=B7=D0=B0=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D1=83 =D1=
+=83=D1=80=D0=BE=D0=BA=D0=B0. =D0=92=D1=8B=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=
+=B5=D1=82=D1=81=D1=8F: <code>true</code>, =D0=B5=D1=81=D0=BB=D0=B8 =D1=81=
+=D1=83=D1=89=D0=B5=D1=81=D1=82=D0=B2=D1=83=D0=B5=D1=82 =D0=B7=D0=B0=D0=BF=
+=D0=B8=D1=81=D1=8C =D0=B2 =D1=82=D0=B0=D0=B1=D0=BB=D0=B8=D1=86=D0=B5 <code>=
+teacher_homework</code> =D1=81 <code>lesson_id</code> =3D <code>lesson.id</=
+code> =D0=B8 <code>type</code> =3D <code>'homework'</code>.</p></td>
+<td data-local-id=3D"a44381ed-3b65-4190-8274-27fcf98bebbb" class=3D"conflue=
+nceTd">
+<p local-id=3D"97ebe173cce3">+</p></td>
+<td data-local-id=3D"1756fe2a-76fa-4d23-b2b2-956c173f787f" class=3D"conflue=
+nceTd">
+<p local-id=3D"b27efe7a640b">boolean</p></td>
+<td data-local-id=3D"34d1cb35-cb2a-4a07-a16c-5756dae9ac21" class=3D"conflue=
+nceTd">
+<p local-id=3D"2331439c91df">=D0=92=D1=8B=D1=87=D0=B8=D1=81=D0=BB=D1=8F=D0=
+=B5=D1=82=D1=81=D1=8F =D0=BD=D0=B0 =D0=BE=D1=81=D0=BD=D0=BE=D0=B2=D0=B5 <co=
+de>teacher_homework</code></p></td>
+</tr>
+<tr data-local-id=3D"b8af8754a4aa">
+<td data-local-id=3D"3762c1a8-69fe-4d76-8dd9-88b57b83a877" class=3D"conflue=
+nceTd">
+<p local-id=3D"1c27d51fc85b">lessons[].createdAt</p></td>
+<td data-local-id=3D"c6bf8ae6-e085-4fa7-871c-9fad689ae9ac" class=3D"conflue=
+nceTd">
+<p local-id=3D"0bb28042130f">=D0=94=D0=B0=D1=82=D0=B0 =D0=B8 =D0=B2=D1=80=
+=D0=B5=D0=BC=D1=8F =D1=81=D0=BE=D0=B7=D0=B4=D0=B0=D0=BD=D0=B8=D1=8F =D1=83=
+=D1=80=D0=BE=D0=BA=D0=B0 =D0=B2 =D1=84=D0=BE=D1=80=D0=BC=D0=B0=D1=82=D0=B5 =
+UTC (YYYY-MM-DD HH:MM:SS).</p></td>
+<td data-local-id=3D"d802871a-5cfa-412b-a480-6affee788b29" class=3D"conflue=
+nceTd">
+<p local-id=3D"37d89b486f6e">+</p></td>
+<td data-local-id=3D"ea22a6b4-c23c-4423-881c-c0c23cb5151a" class=3D"conflue=
+nceTd">
+<p local-id=3D"57e253b111e3">string (datetime)</p></td>
+<td data-local-id=3D"d1b733e1-648a-48d8-8618-2ed9e4cbbdc0" class=3D"conflue=
+nceTd">
+<p local-id=3D"af007a0403cf"><code>lesson.created_at</code></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p local-id=3D"daad0949493f"></p>
+    </div>
+</body>
+</html>
+------=_Part_32_1157390662.1783511678471--
