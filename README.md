@@ -27,16 +27,15 @@ https://krasnodar.hh.ru/resume/12558366ff106298e30039ed1f694a4431637a
   - [Задача на REST API: Добавление вопроса в домашнее задание(тест)]([AK]+Добавление+вопроса+в+домашнее+задание+(тест)+[POST+https___u-verse.ru_api__private_v1.0_homeworks_{homeworkId}_questions].doc)
   - [Задача на REST API: Отправка домашнего задания учеником]([AK]+Отправка+домашнего+задания+учеником+[POST+https___u-verse.ru_api_public_v1.0_homeworks_{homeworkId}_submissions].doc)
 - 🗄 **База данных и SQL**  
-  - [ER-диаграмма (физический уровень) / dbdiagram.io](https://github.com/getanalyst/U-Verse/blob/main/db/ERD_Physical.png)  
-  - [Исходник СУБД SQLite проекта U-Verse](https://github.com/getanalyst/U-Verse/blob/main/db/UVerse.db)  
-  - [SQL-запросы к БД U-Verse](https://github.com/getanalyst/U-Verse/blob/main/db/queries.sql)
-  - [БД: Задача на создание таблицы course / Confluence](https://github.com/getanalyst/U-Verse/blob/main/docs/Tasks/DbTasks.md)  
+  - [ER-диаграмма (физический уровень) / dbdiagram.io](https://dbdiagram.io/d/6a15ee20dfb20dafcdfb928c) 
+  - [Исходник СУБД SQLite проекта U-Verse](U-Verse.png)  
+  - [БД: Задача на создание таблицы student_homework]([AK]+Student_homework-домашнее+задание+студента..doc)  
 - 📊 **Схемы и диаграммы**  
-  - [BPMN-диаграммы (Camunda)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/BPMN_Diagrams.pdf)  
+  - [BPMN-диаграммы (StormBpmn)]([AK]+BPMN+Подключение+студента+к+обучению..doc)  
   - [UML Sequence (PlantUML)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/Sequence_Diagrams.pdf)  
-  - [C4-модель архитектуры (draw.io)](https://github.com/getanalyst/U-Verse/blob/main/diagrams/C4_Architecture.png)
+  - [C4-модель архитектуры (draw.io)](Архитектура+системы+U-Verse+С4..doc)
 - 🎨 **Прототипы UI**  
-  - [Figma](https://www.figma.com/file/XYZ/U-Verse-UI-Prototypes)
+  - [Figma]((https://www.figma.com/design/PnXgFIHVTKSd0L83m1HkkK/Untitled?node-id=0-1&t=u1wJcHnU8RTprxl9-1))
 
 **Ключевые навыки:**  
 BPMN · UML · Системный анализ · ERD · SQL · REST API · Agile · Postman · Интеграции · Jira · Confluence 
